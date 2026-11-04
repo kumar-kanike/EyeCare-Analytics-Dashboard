@@ -1,0 +1,40 @@
+-- Create these measures in a table named patient_visits.
+
+Total Visits =
+COUNTROWS(patient_visits)
+
+Completed Visits =
+CALCULATE(
+    [Total Visits],
+    patient_visits[appointment_status] = "Completed"
+)
+
+Cancelled Visits =
+CALCULATE(
+    [Total Visits],
+    patient_visits[appointment_status] = "Cancelled"
+)
+
+No-Show Visits =
+CALCULATE(
+    [Total Visits],
+    patient_visits[appointment_status] = "No-show"
+)
+
+Completion Rate =
+DIVIDE([Completed Visits], [Total Visits], 0)
+
+Average Waiting Time (min) =
+AVERAGE(patient_visits[waiting_time_min])
+
+Total Synthetic Billed Fees (INR) =
+SUM(patient_visits[consultation_fee])
+
+Average Satisfaction =
+AVERAGE(patient_visits[satisfaction_rating])
+
+Unique Patients =
+DISTINCTCOUNT(patient_visits[patient_id])
+
+Visit Count =
+COUNT(patient_visits[visit_id])
