@@ -1,0 +1,1001 @@
+visit_id,patient_id,patient_name,age,gender,visit_date,branch,department,doctor,waiting_time_min,consultation_fee,appointment_status,payment_method,satisfaction_rating
+VIS0001,PAT0582,Ananya Patel,45,Male,2025-02-02,Hyderabad,Cornea,Dr. V. Menon,20,900.0,Completed,UPI,3
+VIS0002,PAT0455,Diya Das,65,Male,2025-10-10,Bengaluru,Optometry,Dr. R. Gupta,8,300.0,Completed,Cash,4
+VIS0003,PAT0462,Arjun Joshi,42,Male,2025-08-27,Hyderabad,Optometry,Dr. R. Gupta,19,390.0,No-show,Insurance,
+VIS0004,PAT0299,Rohan Sharma,40,Male,2025-06-10,Hyderabad,Retina,Dr. S. Reddy,41,1060.0,Cancelled,Card,
+VIS0005,PAT0043,Kavya Das,62,Male,2025-06-08,Bengaluru,Retina,Dr. M. Sharma,39,1290.0,Completed,Card,4
+VIS0006,PAT0288,Vihaan Iyer,23,Male,2025-11-10,Hyderabad,Pediatric Ophthalmology,Dr. S. Reddy,36,490.0,Completed,Insurance,4
+VIS0007,PAT0606,Arjun Gupta,95,Female,2025-02-01,Hyderabad,Cataract,Dr. M. Sharma,10,760.0,No-show,Card,
+VIS0008,PAT0376,Saanvi Gupta,49,Male,2025-09-12,Hyderabad,Optometry,Dr. R. Gupta,28,330.0,No-show,UPI,
+VIS0009,PAT0534,Kavya Gupta,49,Male,2025-03-15,Kurnool,Retina,Dr. V. Menon,32,1280.0,Completed,Cash,4
+VIS0010,PAT0036,Ishita Kumar,52,Female,2025-02-04,Hyderabad,General Ophthalmology,Dr. V. Menon,29,390.0,Completed,UPI,5
+VIS0011,PAT0141,Kiran Iyer,78,Male,2025-07-12,Kurnool,General Ophthalmology,Dr. M. Sharma,9,450.0,Completed,Insurance,3
+VIS0012,PAT0210,Ishita Menon,57,Male,2025-12-23,Kurnool,Optometry,Dr. R. Gupta,16,240.0,Completed,Insurance,3
+VIS0013,PAT0252,Sai Patel,12,Male,2025-09-26,Hyderabad,General Ophthalmology,Dr. R. Gupta,24,440.0,Completed,Card,5
+VIS0014,PAT0692,Aditya Joshi,69,Female,2025-10-05,Hyderabad,Cataract,Dr. V. Menon,40,1010.0,Completed,UPI,3
+VIS0015,PAT0324,Aarav Patel,36,Male,2025-09-19,Bengaluru,Cataract,Dr. V. Menon,12,840.0,Completed,UPI,3
+VIS0016,PAT0464,Priya Iyer,44,Male,2025-10-14,Kurnool,General Ophthalmology,Dr. K. Das,22,430.0,Cancelled,Insurance,
+VIS0017,PAT0452,Rahul Iyer,18,Female,2025-07-07,Kurnool,Cataract,Dr. A. Rao,17,750.0,Completed,Cash,2
+VIS0018,PAT0294,Ananya Iyer,52,Female,2025-02-16,Bengaluru,Cornea,Dr. P. Kumar,31,770.0,Completed,UPI,4
+VIS0019,PAT0677,Rohan Verma,30,Female,2025-11-03,Kurnool,General Ophthalmology,Dr. V. Menon,30,570.0,Completed,UPI,4
+VIS0020,PAT0156,Vihaan Reddy,44,Female,2025-06-14,Kurnool,Pediatric Ophthalmology,Dr. P. Kumar,37,610.0,Completed,UPI,3
+VIS0021,PAT0025,Vihaan Das,37,Other,2025-07-02,Kurnool,Optometry,Dr. S. Reddy,11,250.0,Completed,Card,4
+VIS0022,PAT0522,Kavya Naidu,79,Male,2025-05-16,Hyderabad,Cataract,Dr. R. Gupta,37,860.0,Completed,Insurance,4
+VIS0023,PAT0458,Nisha Verma,80,Female,2025-03-08,Bengaluru,General Ophthalmology,Dr. M. Sharma,36,340.0,Completed,Card,2
+VIS0024,PAT0183,Saanvi Naidu,43,Female,2025-12-05,Bengaluru,Glaucoma,Dr. V. Menon,14,640.0,Completed,UPI,3
+VIS0025,PAT0608,Diya Joshi,43,Other,2025-10-13,Hyderabad,General Ophthalmology,Dr. P. Kumar,28,540.0,No-show,UPI,
+VIS0026,PAT0114,Rahul Verma,35,Female,2025-08-24,Kurnool,Cataract,Dr. P. Kumar,38,880.0,Completed,Insurance,3
+VIS0027,PAT0176,Kavya Patel,63,Male,2025-05-27,Hyderabad,Oculoplasty,Dr. P. Kumar,29,1280.0,No-show,UPI,
+VIS0028,PAT0109,Vihaan Verma,36,Female,2025-10-28,Hyderabad,Oculoplasty,Dr. P. Kumar,20,990.0,Cancelled,UPI,
+VIS0029,PAT0131,Meera Joshi,34,Female,2025-07-19,Kurnool,Pediatric Ophthalmology,Dr. M. Sharma,33,600.0,Cancelled,Card,
+VIS0030,PAT0511,Priya Sharma,61,Male,2025-06-11,Kurnool,Cataract,Dr. P. Kumar,16,990.0,Completed,UPI,4
+VIS0031,PAT0493,Ishita Naidu,32,Female,2025-06-14,Kurnool,Cornea,Dr. V. Menon,24,510.0,Completed,Cash,4
+VIS0032,PAT0450,Rohan Sharma,41,Male,2025-03-24,Kurnool,Cornea,Dr. P. Kumar,26,880.0,Completed,Insurance,4
+VIS0033,PAT0603,Diya Naidu,12,Female,2025-02-03,Hyderabad,Cataract,Dr. M. Sharma,35,890.0,Completed,Card,4
+VIS0034,PAT0049,Aarav Reddy,55,Male,2025-07-22,Hyderabad,Glaucoma,Dr. V. Menon,24,920.0,Completed,Cash,3
+VIS0035,PAT0435,Aarav Gupta,79,Male,2025-11-21,Kurnool,General Ophthalmology,Dr. M. Sharma,15,520.0,No-show,UPI,
+VIS0036,PAT0081,Aarav Iyer,56,Male,2025-01-24,Hyderabad,General Ophthalmology,Dr. A. Rao,23,370.0,Completed,Insurance,4
+VIS0037,PAT0669,Ananya Naidu,70,Female,2025-11-10,Bengaluru,Retina,Dr. A. Rao,45,1300.0,Cancelled,Card,
+VIS0038,PAT0444,Aarav Rao,26,Male,2025-10-30,Hyderabad,General Ophthalmology,Dr. M. Sharma,45,430.0,Completed,Card,4
+VIS0039,PAT0532,Rohan Gupta,46,Other,2025-04-12,Bengaluru,General Ophthalmology,Dr. K. Das,7,390.0,Completed,Cash,4
+VIS0040,PAT0400,Ananya Iyer,24,Female,2025-08-19,Hyderabad,Optometry,Dr. R. Gupta,19,310.0,Completed,Insurance,5
+VIS0041,PAT0269,Rahul Naidu,38,Female,2025-03-02,Bengaluru,Oculoplasty,Dr. S. Reddy,21,970.0,Completed,Insurance,5
+VIS0042,PAT0481,Rahul Sharma,57,Male,2025-10-04,Kurnool,Glaucoma,Dr. N. Iyer,40,920.0,Completed,UPI,4
+VIS0043,PAT0586,Kavya Reddy,44,Female,2025-09-13,Hyderabad,Optometry,Dr. P. Kumar,7,320.0,Completed,UPI,4
+VIS0044,PAT0125,Saanvi Iyer,15,Male,2025-05-10,Kurnool,Oculoplasty,Dr. M. Sharma,25,1030.0,Completed,Card,2
+VIS0045,PAT0611,Aarav Joshi,17,Male,2025-01-25,Hyderabad,General Ophthalmology,Dr. M. Sharma,16,510.0,Completed,Card,5
+VIS0046,PAT0509,Priya Kumar,16,Female,2025-12-21,Hyderabad,Retina,Dr. P. Kumar,34,1280.0,Completed,Card,4
+VIS0047,PAT0061,Aarav Gupta,51,Male,2025-06-12,Kurnool,Cataract,Dr. A. Rao,31,1010.0,No-show,Insurance,
+VIS0048,PAT0656,Kiran Rao,81,Male,2025-11-22,Bengaluru,General Ophthalmology,Dr. A. Rao,27,550.0,Completed,Card,5
+VIS0049,PAT0127,Kavya Gupta,68,Female,2025-09-05,Kurnool,Pediatric Ophthalmology,Dr. N. Iyer,24,650.0,Completed,UPI,3
+VIS0050,PAT0421,Meera Kumar,6,Male,2025-10-12,Kurnool,Retina,Dr. S. Reddy,22,1130.0,Completed,UPI,4
+VIS0051,PAT0091,Arjun Iyer,69,Female,2025-10-05,Kurnool,Retina,Dr. P. Kumar,42,1300.0,Completed,Card,4
+VIS0052,PAT0138,Aarav Patel,60,Female,2025-03-13,Hyderabad,General Ophthalmology,Dr. A. Rao,21,440.0,Completed,UPI,3
+VIS0053,PAT0451,Diya Reddy,13,Male,2025-05-13,Kurnool,General Ophthalmology,Dr. A. Rao,34,450.0,Completed,UPI,4
+VIS0054,PAT0476,Vihaan Patel,36,Female,2025-06-20,Hyderabad,Optometry,Dr. S. Reddy,9,380.0,No-show,Card,
+VIS0055,PAT0481,Rohan Patel,63,Male,2025-07-01,Kurnool,General Ophthalmology,Dr. M. Sharma,6,560.0,Completed,UPI,4
+VIS0056,PAT0241,Priya Das,52,Female,2025-01-16,Bengaluru,General Ophthalmology,Dr. S. Reddy,22,450.0,Completed,Card,5
+VIS0057,PAT0575,Diya Joshi,17,Male,2025-07-19,Bengaluru,Cataract,Dr. S. Reddy,41,840.0,Completed,Cash,4
+VIS0058,PAT0035,Priya Iyer,54,Female,2025-02-26,Hyderabad,Retina,Dr. P. Kumar,37,1340.0,Completed,UPI,4
+VIS0059,PAT0599,Aarav Verma,1,Male,2025-09-29,Hyderabad,Glaucoma,Dr. P. Kumar,28,840.0,Completed,UPI,2
+VIS0060,PAT0212,Priya Iyer,38,Male,2025-09-07,Bengaluru,Retina,Dr. A. Rao,26,1150.0,Completed,Card,3
+VIS0061,PAT0435,Vihaan Reddy,64,Male,2025-12-03,Bengaluru,General Ophthalmology,Dr. A. Rao,40,430.0,Completed,Card,4
+VIS0062,PAT0634,Arjun Kumar,42,Other,2025-09-29,Hyderabad,Cataract,Dr. R. Gupta,18,940.0,Completed,UPI,3
+VIS0063,PAT0179,Diya Patel,33,Male,2025-05-14,Bengaluru,Optometry,Dr. K. Das,9,300.0,Completed,UPI,4
+VIS0064,PAT0288,Aarav Sharma,59,Male,2025-12-20,Bengaluru,Glaucoma,Dr. A. Rao,36,680.0,Completed,Cash,4
+VIS0065,PAT0580,Nisha Verma,61,Male,2025-05-30,Bengaluru,Glaucoma,Dr. P. Kumar,11,760.0,Completed,Card,5
+VIS0066,PAT0606,Aarav Gupta,67,Male,2025-04-29,Hyderabad,Cornea,Dr. M. Sharma,39,880.0,Completed,Insurance,3
+VIS0067,PAT0165,Kavya Das,59,Male,2025-11-27,Kurnool,Pediatric Ophthalmology,Dr. R. Gupta,30,570.0,Completed,Card,3
+VIS0068,PAT0357,Rohan Iyer,63,Male,2025-05-16,Kurnool,General Ophthalmology,Dr. R. Gupta,31,510.0,Completed,UPI,4
+VIS0069,PAT0234,Diya Patel,56,Female,2025-01-28,Hyderabad,Cataract,Dr. V. Menon,34,1070.0,Completed,Card,4
+VIS0070,PAT0362,Sai Naidu,47,Male,2025-06-21,Hyderabad,Retina,Dr. A. Rao,33,1260.0,No-show,UPI,
+VIS0071,PAT0266,Rohan Reddy,44,Male,2025-10-18,Hyderabad,Cataract,Dr. M. Sharma,17,860.0,Completed,Cash,5
+VIS0072,PAT0004,Sai Reddy,37,Female,2025-03-11,Hyderabad,Optometry,Dr. M. Sharma,15,330.0,Completed,Cash,4
+VIS0073,PAT0648,Priya Sharma,19,Female,2025-06-18,Hyderabad,Retina,Dr. K. Das,25,1110.0,Completed,Cash,4
+VIS0074,PAT0446,Arjun Kumar,24,Male,2025-02-17,Bengaluru,Pediatric Ophthalmology,Dr. V. Menon,29,490.0,Cancelled,UPI,
+VIS0075,PAT0324,Rohan Gupta,37,Female,2025-09-08,Kurnool,Optometry,Dr. P. Kumar,24,330.0,Completed,Card,4
+VIS0076,PAT0076,Rohan Rao,47,Female,2025-06-23,Kurnool,Retina,Dr. N. Iyer,50,1120.0,Completed,UPI,4
+VIS0077,PAT0050,Arjun Reddy,69,Female,2025-05-01,Bengaluru,Optometry,Dr. P. Kumar,20,420.0,Completed,Card,4
+VIS0078,PAT0336,Rohan Verma,41,Female,2025-03-24,Bengaluru,Glaucoma,Dr. S. Reddy,39,910.0,Cancelled,Insurance,
+VIS0079,PAT0455,Kavya Joshi,61,Male,2025-07-26,Bengaluru,Optometry,Dr. P. Kumar,13,330.0,Completed,UPI,4
+VIS0080,PAT0183,Ananya Iyer,63,Male,2025-09-02,Bengaluru,Cataract,Dr. K. Das,23,930.0,No-show,UPI,
+VIS0081,PAT0522,Aarav Iyer,38,Other,2025-12-10,Bengaluru,Retina,Dr. M. Sharma,40,1130.0,Completed,Card,3
+VIS0082,PAT0275,Saanvi Menon,53,Male,2025-06-09,Kurnool,Retina,Dr. K. Das,31,930.0,Cancelled,Cash,
+VIS0083,PAT0008,Ishita Rao,37,Male,2025-02-28,Hyderabad,General Ophthalmology,Dr. K. Das,25,330.0,Completed,UPI,5
+VIS0084,PAT0376,Meera Iyer,67,Female,2025-10-31,Kurnool,Cataract,Dr. P. Kumar,17,780.0,Completed,UPI,4
+VIS0085,PAT0127,Saanvi Reddy,54,Male,2025-08-18,Hyderabad,Optometry,Dr. R. Gupta,7,300.0,Completed,Card,4
+VIS0086,PAT0011,Saanvi Patel,19,Female,2025-09-13,Bengaluru,Glaucoma,Dr. A. Rao,36,510.0,Completed,Card,4
+VIS0087,PAT0092,Priya Joshi,45,Female,2025-02-05,Kurnool,General Ophthalmology,Dr. R. Gupta,31,410.0,Completed,Card,2
+VIS0088,PAT0200,Diya Menon,73,Male,2025-04-25,Hyderabad,Cataract,Dr. A. Rao,18,870.0,Completed,Card,4
+VIS0089,PAT0361,Vihaan Joshi,39,Male,2025-10-08,Kurnool,General Ophthalmology,Dr. M. Sharma,29,440.0,Completed,UPI,4
+VIS0090,PAT0693,Meera Gupta,51,Female,2025-10-31,Kurnool,General Ophthalmology,Dr. V. Menon,17,410.0,Completed,Card,4
+VIS0091,PAT0153,Rahul Naidu,52,Male,2025-06-08,Kurnool,Optometry,Dr. K. Das,16,280.0,Completed,Insurance,4
+VIS0092,PAT0041,Rohan Menon,22,Female,2025-10-21,Kurnool,Retina,Dr. P. Kumar,49,1380.0,Cancelled,UPI,
+VIS0093,PAT0134,Meera Naidu,52,Female,2025-11-04,Bengaluru,Cataract,Dr. R. Gupta,36,990.0,Completed,Insurance,3
+VIS0094,PAT0224,Saanvi Iyer,16,Female,2025-05-22,Hyderabad,Glaucoma,Dr. S. Reddy,38,690.0,Completed,Insurance,4
+VIS0095,PAT0144,Ananya Sharma,30,Female,2025-11-24,Bengaluru,General Ophthalmology,Dr. K. Das,41,450.0,Completed,UPI,4
+VIS0096,PAT0225,Kavya Das,62,Male,2025-04-16,Hyderabad,Cataract,Dr. N. Iyer,21,900.0,No-show,Cash,
+VIS0097,PAT0679,Aditya Sharma,49,Female,2025-03-29,Kurnool,Cornea,Dr. S. Reddy,16,750.0,Completed,UPI,4
+VIS0098,PAT0266,Priya Iyer,36,Male,2025-09-07,Kurnool,Glaucoma,Dr. R. Gupta,23,660.0,Completed,Card,4
+VIS0099,PAT0445,Diya Reddy,50,Female,2025-08-21,Bengaluru,Oculoplasty,Dr. V. Menon,29,1150.0,No-show,Cash,
+VIS0100,PAT0480,Rohan Das,41,Male,2025-02-21,Kurnool,Glaucoma,Dr. A. Rao,6,700.0,No-show,UPI,
+VIS0101,PAT0092,Arjun Kumar,42,Male,2025-10-31,Bengaluru,Retina,Dr. A. Rao,33,920.0,Completed,Card,3
+VIS0102,PAT0174,Arjun Sharma,54,Male,2025-03-14,Kurnool,Pediatric Ophthalmology,Dr. A. Rao,19,600.0,Completed,Insurance,3
+VIS0103,PAT0292,Priya Iyer,28,Female,2025-10-21,Hyderabad,Optometry,Dr. M. Sharma,24,310.0,Completed,Card,3
+VIS0104,PAT0323,Meera Reddy,43,Male,2025-01-03,Bengaluru,Cornea,Dr. M. Sharma,30,600.0,Completed,Card,5
+VIS0105,PAT0010,Kiran Joshi,36,Male,2025-10-18,Kurnool,Oculoplasty,Dr. K. Das,26,990.0,Completed,UPI,4
+VIS0106,PAT0452,Priya Iyer,12,Female,2025-10-15,Kurnool,Pediatric Ophthalmology,Dr. K. Das,30,680.0,Completed,Cash,4
+VIS0107,PAT0211,Arjun Patel,25,Female,2025-10-12,Bengaluru,Optometry,Dr. A. Rao,23,320.0,Completed,Card,4
+VIS0108,PAT0226,Aarav Rao,72,Female,2025-08-31,Kurnool,General Ophthalmology,Dr. M. Sharma,14,600.0,Completed,UPI,3
+VIS0109,PAT0423,Rahul Verma,49,Female,2025-06-22,Hyderabad,Cornea,Dr. V. Menon,21,1010.0,Completed,UPI,5
+VIS0110,PAT0665,Kavya Naidu,17,Female,2025-09-15,Hyderabad,Retina,Dr. R. Gupta,13,1340.0,Completed,Insurance,3
+VIS0111,PAT0606,Sai Patel,13,Female,2025-04-12,Kurnool,Glaucoma,Dr. P. Kumar,19,1070.0,Cancelled,UPI,
+VIS0112,PAT0686,Arjun Kumar,40,Female,2025-10-12,Bengaluru,Cornea,Dr. A. Rao,19,950.0,Cancelled,Card,
+VIS0113,PAT0290,Diya Gupta,72,Male,2025-07-22,Bengaluru,Oculoplasty,Dr. S. Reddy,33,1020.0,Completed,Card,4
+VIS0114,PAT0084,Aarav Joshi,38,Female,2025-06-17,Hyderabad,Oculoplasty,Dr. P. Kumar,23,1150.0,Completed,Card,3
+VIS0115,PAT0152,Rahul Patel,67,Female,2025-07-04,Bengaluru,Cataract,Dr. M. Sharma,23,820.0,Completed,UPI,3
+VIS0116,PAT0241,Priya Reddy,49,Male,2025-07-27,Kurnool,Cornea,Dr. P. Kumar,14,860.0,Completed,UPI,4
+VIS0117,PAT0211,Rohan Reddy,51,Female,2025-01-14,Kurnool,Cornea,Dr. A. Rao,28,770.0,Completed,Cash,3
+VIS0118,PAT0146,Ananya Rao,17,Female,2025-02-21,Hyderabad,Cataract,Dr. P. Kumar,32,950.0,Cancelled,Card,
+VIS0119,PAT0106,Rahul Gupta,60,Female,2025-03-31,Bengaluru,General Ophthalmology,Dr. P. Kumar,26,410.0,Cancelled,UPI,
+VIS0120,PAT0131,Sai Joshi,36,Female,2025-02-11,Kurnool,General Ophthalmology,Dr. M. Sharma,22,400.0,Cancelled,UPI,
+VIS0121,PAT0461,Kavya Joshi,58,Male,2025-06-10,Kurnool,Pediatric Ophthalmology,Dr. A. Rao,9,640.0,Cancelled,Card,
+VIS0122,PAT0344,Aarav Menon,27,Female,2025-09-01,Hyderabad,Retina,Dr. V. Menon,29,1080.0,No-show,Cash,
+VIS0123,PAT0027,Priya Reddy,45,Female,2025-08-27,Bengaluru,Oculoplasty,Dr. M. Sharma,28,710.0,Completed,UPI,4
+VIS0124,PAT0395,Vihaan Joshi,49,Other,2025-06-21,Kurnool,Retina,Dr. P. Kumar,31,860.0,No-show,Cash,
+VIS0125,PAT0590,Sai Sharma,39,Male,2025-11-09,Hyderabad,Oculoplasty,Dr. R. Gupta,33,830.0,Completed,UPI,4
+VIS0126,PAT0298,Ananya Patel,50,Female,2025-07-26,Hyderabad,Retina,Dr. K. Das,49,950.0,Completed,Cash,3
+VIS0127,PAT0224,Aarav Gupta,37,Female,2025-01-29,Hyderabad,Pediatric Ophthalmology,Dr. S. Reddy,32,640.0,Completed,Cash,4
+VIS0128,PAT0191,Rohan Rao,30,Female,2025-10-07,Kurnool,General Ophthalmology,Dr. S. Reddy,12,460.0,Completed,Insurance,3
+VIS0129,PAT0266,Kavya Menon,73,Male,2025-07-29,Kurnool,Glaucoma,Dr. A. Rao,37,870.0,Completed,Insurance,2
+VIS0130,PAT0196,Sai Joshi,62,Male,2025-08-20,Hyderabad,Pediatric Ophthalmology,Dr. N. Iyer,30,670.0,Completed,Card,4
+VIS0131,PAT0647,Aarav Menon,28,Female,2025-07-26,Hyderabad,Optometry,Dr. P. Kumar,8,350.0,Completed,Card,5
+VIS0132,PAT0695,Rahul Menon,53,Female,2025-07-22,Bengaluru,Pediatric Ophthalmology,Dr. M. Sharma,32,650.0,Completed,Card,4
+VIS0133,PAT0241,Arjun Patel,28,Female,2025-02-03,Hyderabad,General Ophthalmology,Dr. N. Iyer,20,460.0,Cancelled,Insurance,
+VIS0134,PAT0647,Sai Rao,19,Male,2025-07-24,Hyderabad,Cataract,Dr. N. Iyer,14,1050.0,Completed,UPI,5
+VIS0135,PAT0598,Aditya Menon,62,Male,2025-10-18,Bengaluru,General Ophthalmology,Dr. A. Rao,27,510.0,Completed,Cash,4
+VIS0136,PAT0054,Rahul Naidu,10,Female,2025-04-21,Hyderabad,General Ophthalmology,Dr. A. Rao,24,480.0,Completed,Card,4
+VIS0137,PAT0344,Rahul Verma,60,Male,2025-08-09,Hyderabad,Cornea,Dr. V. Menon,24,1010.0,Completed,Insurance,4
+VIS0138,PAT0460,Rahul Reddy,37,Female,2025-01-12,Bengaluru,Cornea,Dr. R. Gupta,26,550.0,Completed,UPI,5
+VIS0139,PAT0296,Diya Sharma,38,Male,2025-05-07,Kurnool,Pediatric Ophthalmology,Dr. V. Menon,17,570.0,Cancelled,UPI,
+VIS0140,PAT0320,Ishita Patel,50,Male,2025-06-09,Hyderabad,Optometry,Dr. R. Gupta,22,290.0,Completed,UPI,3
+VIS0141,PAT0346,Diya Gupta,53,Female,2025-12-25,Bengaluru,Cornea,Dr. M. Sharma,26,1000.0,Completed,UPI,3
+VIS0142,PAT0483,Ananya Menon,26,Female,2025-03-20,Kurnool,Pediatric Ophthalmology,Dr. V. Menon,26,740.0,Completed,Card,5
+VIS0143,PAT0206,Aditya Joshi,56,Male,2025-04-11,Hyderabad,General Ophthalmology,Dr. R. Gupta,26,350.0,Completed,UPI,4
+VIS0144,PAT0418,Aarav Sharma,44,Female,2025-05-30,Kurnool,General Ophthalmology,Dr. R. Gupta,10,550.0,Cancelled,Insurance,
+VIS0145,PAT0171,Sai Iyer,18,Male,2025-12-29,Kurnool,Glaucoma,Dr. S. Reddy,21,620.0,Completed,Card,5
+VIS0146,PAT0623,Kiran Rao,39,Female,2025-11-08,Hyderabad,Optometry,Dr. S. Reddy,2,250.0,Cancelled,Cash,
+VIS0147,PAT0060,Rahul Sharma,68,Male,2025-01-13,Kurnool,General Ophthalmology,Dr. M. Sharma,28,430.0,Completed,Card,3
+VIS0148,PAT0047,Kavya Patel,74,Female,2025-03-27,Bengaluru,Retina,Dr. N. Iyer,23,1050.0,Cancelled,Card,
+VIS0149,PAT0027,Diya Naidu,56,Female,2025-10-27,Bengaluru,Cornea,Dr. R. Gupta,27,650.0,Completed,UPI,3
+VIS0150,PAT0245,Meera Iyer,19,Female,2025-01-22,Bengaluru,General Ophthalmology,Dr. P. Kumar,26,490.0,Cancelled,UPI,
+VIS0151,PAT0425,Kavya Patel,51,Female,2025-11-09,Kurnool,Cataract,Dr. V. Menon,34,990.0,No-show,Card,
+VIS0152,PAT0690,Rohan Naidu,58,Female,2025-04-13,Kurnool,Optometry,Dr. R. Gupta,4,350.0,Completed,UPI,4
+VIS0153,PAT0319,Vihaan Menon,56,Male,2025-12-01,Kurnool,Cornea,Dr. R. Gupta,25,790.0,Cancelled,Cash,
+VIS0154,PAT0128,Diya Kumar,57,Female,2025-04-18,Kurnool,General Ophthalmology,Dr. S. Reddy,39,450.0,Completed,UPI,5
+VIS0155,PAT0258,Aarav Patel,49,Female,2025-06-08,Bengaluru,Optometry,Dr. S. Reddy,33,300.0,Completed,UPI,4
+VIS0156,PAT0090,Saanvi Gupta,41,Female,2025-08-30,Hyderabad,Cataract,Dr. S. Reddy,38,1130.0,No-show,Card,
+VIS0157,PAT0331,Sai Menon,30,Female,2025-02-16,Kurnool,Optometry,Dr. K. Das,19,170.0,Completed,Cash,4
+VIS0158,PAT0511,Ishita Menon,6,Male,2025-07-23,Bengaluru,Cataract,Dr. K. Das,18,770.0,Completed,Card,4
+VIS0159,PAT0025,Diya Kumar,48,Male,2025-07-04,Hyderabad,Glaucoma,Dr. M. Sharma,37,750.0,Completed,UPI,4
+VIS0160,PAT0545,Ishita Das,46,Female,2025-10-14,Kurnool,Cataract,Dr. A. Rao,26,750.0,Completed,Card,4
+VIS0161,PAT0160,Diya Verma,53,Male,2025-12-30,Kurnool,Cataract,Dr. N. Iyer,34,870.0,Cancelled,UPI,
+VIS0162,PAT0471,Arjun Patel,17,Male,2025-08-31,Hyderabad,Optometry,Dr. K. Das,10,290.0,Completed,Insurance,5
+VIS0163,PAT0571,Saanvi Iyer,54,Other,2025-05-30,Bengaluru,General Ophthalmology,Dr. M. Sharma,20,410.0,Completed,Insurance,4
+VIS0164,PAT0544,Rohan Joshi,81,Female,2025-05-29,Kurnool,General Ophthalmology,Dr. P. Kumar,24,450.0,Completed,UPI,4
+VIS0165,PAT0469,Rohan Reddy,43,Female,2025-06-02,Bengaluru,Cataract,Dr. N. Iyer,30,980.0,Completed,Card,4
+VIS0166,PAT0486,Priya Gupta,41,Female,2025-10-25,Bengaluru,Cornea,Dr. K. Das,31,820.0,Cancelled,UPI,
+VIS0167,PAT0132,Diya Verma,48,Male,2025-04-28,Bengaluru,Pediatric Ophthalmology,Dr. N. Iyer,18,560.0,Cancelled,Card,
+VIS0168,PAT0096,Rohan Reddy,81,Male,2025-03-02,Kurnool,Oculoplasty,Dr. V. Menon,19,980.0,Completed,Card,4
+VIS0169,PAT0267,Vihaan Gupta,23,Male,2025-05-03,Kurnool,Cataract,Dr. P. Kumar,44,900.0,Completed,UPI,4
+VIS0170,PAT0426,Diya Iyer,46,Female,2025-01-09,Bengaluru,Cataract,Dr. N. Iyer,53,670.0,Completed,UPI,3
+VIS0171,PAT0433,Priya Verma,27,Male,2025-02-08,Kurnool,General Ophthalmology,Dr. V. Menon,26,480.0,Completed,UPI,3
+VIS0172,PAT0544,Meera Verma,32,Male,2025-02-02,Hyderabad,Glaucoma,Dr. S. Reddy,17,700.0,Completed,Card,4
+VIS0173,PAT0216,Arjun Verma,41,Female,2025-10-09,Bengaluru,Oculoplasty,Dr. P. Kumar,24,1190.0,Completed,Card,4
+VIS0174,PAT0606,Arjun Rao,68,Male,2025-09-21,Kurnool,Cornea,Dr. A. Rao,31,930.0,Completed,Cash,3
+VIS0175,PAT0315,Priya Menon,76,Female,2025-09-12,Bengaluru,Glaucoma,Dr. P. Kumar,43,880.0,Completed,UPI,3
+VIS0176,PAT0173,Sai Joshi,51,Male,2025-06-18,Bengaluru,Cataract,Dr. A. Rao,16,760.0,Completed,UPI,4
+VIS0177,PAT0515,Ananya Naidu,35,Male,2025-09-19,Hyderabad,Optometry,Dr. K. Das,15,280.0,Completed,UPI,5
+VIS0178,PAT0090,Priya Naidu,89,Male,2025-02-28,Hyderabad,Retina,Dr. A. Rao,37,890.0,Cancelled,Cash,
+VIS0179,PAT0284,Aarav Rao,34,Male,2025-11-25,Bengaluru,General Ophthalmology,Dr. K. Das,31,400.0,Completed,UPI,2
+VIS0180,PAT0547,Aditya Verma,31,Female,2025-07-02,Hyderabad,Cataract,Dr. N. Iyer,25,1070.0,Completed,Insurance,4
+VIS0181,PAT0540,Vihaan Rao,8,Female,2025-12-09,Hyderabad,General Ophthalmology,Dr. R. Gupta,6,550.0,Cancelled,UPI,
+VIS0182,PAT0180,Rohan Sharma,69,Female,2025-02-25,Bengaluru,General Ophthalmology,Dr. P. Kumar,28,370.0,Cancelled,Card,
+VIS0183,PAT0117,Kavya Joshi,60,Female,2025-07-01,Hyderabad,General Ophthalmology,Dr. P. Kumar,33,420.0,Completed,UPI,4
+VIS0184,PAT0023,Kiran Joshi,88,Female,2025-09-12,Kurnool,Retina,Dr. S. Reddy,34,1090.0,Completed,UPI,4
+VIS0185,PAT0063,Diya Joshi,16,Female,2025-06-30,Kurnool,Glaucoma,Dr. N. Iyer,34,820.0,Completed,Card,4
+VIS0186,PAT0578,Meera Iyer,70,Female,2025-06-12,Kurnool,Cataract,Dr. S. Reddy,23,660.0,Completed,UPI,4
+VIS0187,PAT0549,Aarav Kumar,43,Female,2025-03-02,Hyderabad,Retina,Dr. A. Rao,27,840.0,Completed,UPI,5
+VIS0188,PAT0355,Diya Iyer,57,Female,2025-05-20,Hyderabad,Oculoplasty,Dr. R. Gupta,42,1070.0,Completed,Insurance,3
+VIS0189,PAT0400,Diya Reddy,11,Male,2025-03-29,Hyderabad,Pediatric Ophthalmology,Dr. K. Das,28,420.0,Completed,Insurance,4
+VIS0190,PAT0229,Saanvi Verma,70,Female,2025-04-21,Hyderabad,Glaucoma,Dr. A. Rao,35,700.0,Completed,Card,4
+VIS0191,PAT0135,Ananya Das,57,Male,2025-09-07,Bengaluru,Cataract,Dr. N. Iyer,43,920.0,No-show,Cash,
+VIS0192,PAT0009,Kavya Patel,41,Male,2025-08-19,Bengaluru,Optometry,Dr. P. Kumar,5,320.0,Completed,Cash,3
+VIS0193,PAT0471,Vihaan Rao,54,Male,2025-08-10,Kurnool,General Ophthalmology,Dr. S. Reddy,16,440.0,Cancelled,Cash,
+VIS0194,PAT0025,Sai Patel,27,Female,2025-05-13,Hyderabad,Cataract,Dr. M. Sharma,30,850.0,No-show,Insurance,
+VIS0195,PAT0074,Ananya Verma,31,Female,2025-12-17,Hyderabad,Optometry,Dr. V. Menon,10,340.0,Cancelled,Card,
+VIS0196,PAT0555,Rahul Gupta,33,Male,2025-02-01,Hyderabad,Retina,Dr. A. Rao,43,1150.0,Completed,UPI,3
+VIS0197,PAT0408,Ananya Rao,7,Male,2025-05-06,Kurnool,Cornea,Dr. P. Kumar,24,770.0,Cancelled,Insurance,
+VIS0198,PAT0343,Diya Reddy,58,Female,2025-02-13,Bengaluru,Glaucoma,Dr. R. Gupta,20,750.0,Completed,Cash,5
+VIS0199,PAT0153,Kiran Patel,65,Female,2025-05-04,Bengaluru,Cornea,Dr. M. Sharma,27,900.0,Completed,UPI,3
+VIS0200,PAT0105,Rahul Reddy,29,Male,2025-12-18,Hyderabad,Cataract,Dr. A. Rao,30,1130.0,Cancelled,UPI,
+VIS0201,PAT0327,Priya Joshi,49,Female,2025-05-14,Bengaluru,Cataract,Dr. M. Sharma,37,1010.0,Completed,UPI,4
+VIS0202,PAT0251,Vihaan Naidu,37,Male,2025-11-28,Bengaluru,Cataract,Dr. K. Das,32,1060.0,Completed,Insurance,3
+VIS0203,PAT0374,Kiran Reddy,48,Female,2025-06-30,Hyderabad,General Ophthalmology,Dr. R. Gupta,27,410.0,Completed,Insurance,4
+VIS0204,PAT0116,Arjun Menon,30,Female,2025-09-13,Hyderabad,Optometry,Dr. K. Das,19,280.0,Cancelled,Cash,
+VIS0205,PAT0163,Nisha Patel,25,Male,2025-06-16,Hyderabad,Cataract,Dr. A. Rao,26,870.0,Completed,UPI,4
+VIS0206,PAT0080,Ananya Kumar,62,Female,2025-04-08,Bengaluru,Glaucoma,Dr. V. Menon,23,730.0,Completed,UPI,3
+VIS0207,PAT0298,Nisha Das,41,Male,2025-10-06,Kurnool,Pediatric Ophthalmology,Dr. V. Menon,27,510.0,Cancelled,Cash,
+VIS0208,PAT0194,Rohan Rao,80,Female,2025-12-20,Hyderabad,Pediatric Ophthalmology,Dr. K. Das,21,710.0,Completed,UPI,5
+VIS0209,PAT0157,Rahul Iyer,43,Female,2025-04-07,Bengaluru,Retina,Dr. R. Gupta,52,1250.0,Completed,UPI,3
+VIS0210,PAT0385,Kiran Verma,24,Male,2025-10-12,Kurnool,Retina,Dr. V. Menon,48,1050.0,Completed,UPI,2
+VIS0211,PAT0349,Kiran Joshi,65,Female,2025-04-06,Bengaluru,Oculoplasty,Dr. S. Reddy,38,1100.0,No-show,UPI,
+VIS0212,PAT0148,Kiran Patel,54,Female,2025-09-19,Hyderabad,Cornea,Dr. M. Sharma,30,880.0,Completed,UPI,4
+VIS0213,PAT0490,Sai Naidu,56,Male,2025-10-15,Bengaluru,Pediatric Ophthalmology,Dr. N. Iyer,23,660.0,Completed,Insurance,4
+VIS0214,PAT0241,Rahul Kumar,65,Male,2025-06-14,Bengaluru,Optometry,Dr. M. Sharma,3,240.0,Completed,UPI,5
+VIS0215,PAT0239,Aditya Das,30,Male,2025-09-26,Kurnool,Pediatric Ophthalmology,Dr. K. Das,22,590.0,Cancelled,UPI,
+VIS0216,PAT0335,Ananya Sharma,40,Female,2025-04-10,Bengaluru,General Ophthalmology,Dr. K. Das,23,450.0,Completed,UPI,3
+VIS0217,PAT0098,Sai Das,39,Female,2025-01-29,Kurnool,Glaucoma,Dr. A. Rao,32,820.0,Completed,Card,5
+VIS0218,PAT0295,Rahul Kumar,17,Male,2025-02-05,Hyderabad,General Ophthalmology,Dr. N. Iyer,27,410.0,No-show,Cash,
+VIS0219,PAT0408,Diya Joshi,37,Female,2025-06-13,Hyderabad,Cornea,Dr. A. Rao,35,530.0,Completed,Cash,4
+VIS0220,PAT0091,Rohan Verma,67,Female,2025-11-26,Bengaluru,Oculoplasty,Dr. N. Iyer,25,840.0,Completed,Card,4
+VIS0221,PAT0396,Rahul Patel,47,Male,2025-02-16,Kurnool,Retina,Dr. M. Sharma,28,1090.0,Completed,Card,5
+VIS0222,PAT0028,Kavya Menon,16,Female,2025-06-16,Kurnool,Retina,Dr. S. Reddy,50,1110.0,Cancelled,UPI,
+VIS0223,PAT0423,Vihaan Reddy,12,Female,2025-09-14,Hyderabad,General Ophthalmology,Dr. R. Gupta,30,560.0,Completed,UPI,3
+VIS0224,PAT0025,Vihaan Gupta,74,Female,2025-03-15,Hyderabad,Oculoplasty,Dr. P. Kumar,28,1090.0,Completed,Insurance,3
+VIS0225,PAT0123,Vihaan Sharma,40,Female,2025-09-21,Hyderabad,General Ophthalmology,Dr. A. Rao,21,460.0,Completed,Cash,5
+VIS0226,PAT0246,Rohan Reddy,30,Male,2025-04-22,Kurnool,General Ophthalmology,Dr. P. Kumar,21,450.0,Completed,UPI,4
+VIS0227,PAT0431,Ishita Gupta,37,Male,2025-10-23,Kurnool,Cataract,Dr. V. Menon,28,1050.0,Cancelled,UPI,
+VIS0228,PAT0504,Kavya Iyer,14,Female,2025-07-31,Bengaluru,General Ophthalmology,Dr. A. Rao,27,410.0,Completed,UPI,5
+VIS0229,PAT0329,Priya Das,69,Female,2025-07-19,Kurnool,Retina,Dr. M. Sharma,60,1080.0,Completed,Card,4
+VIS0230,PAT0092,Meera Das,35,Male,2025-03-06,Hyderabad,Retina,Dr. M. Sharma,37,920.0,Cancelled,Card,
+VIS0231,PAT0272,Kavya Rao,68,Female,2025-06-19,Bengaluru,Cataract,Dr. V. Menon,35,1090.0,Completed,UPI,4
+VIS0232,PAT0551,Kiran Rao,43,Male,2025-11-09,Kurnool,General Ophthalmology,Dr. A. Rao,5,480.0,Completed,Card,5
+VIS0233,PAT0064,Sai Naidu,69,Male,2025-01-08,Hyderabad,General Ophthalmology,Dr. A. Rao,17,400.0,Completed,UPI,3
+VIS0234,PAT0501,Aarav Naidu,47,Male,2025-10-04,Kurnool,Cataract,Dr. N. Iyer,40,880.0,Completed,Card,4
+VIS0235,PAT0271,Rohan Rao,58,Female,2025-06-29,Bengaluru,General Ophthalmology,Dr. S. Reddy,26,480.0,Completed,Cash,4
+VIS0236,PAT0003,Kavya Patel,56,Other,2025-09-20,Hyderabad,Cornea,Dr. K. Das,2,820.0,Completed,UPI,3
+VIS0237,PAT0487,Aarav Naidu,54,Female,2025-08-31,Bengaluru,General Ophthalmology,Dr. P. Kumar,29,410.0,Completed,Card,4
+VIS0238,PAT0019,Rohan Naidu,49,Male,2025-06-07,Kurnool,Cataract,Dr. N. Iyer,47,810.0,Completed,UPI,3
+VIS0239,PAT0259,Vihaan Menon,38,Male,2025-04-23,Hyderabad,Cataract,Dr. A. Rao,8,950.0,Completed,Cash,5
+VIS0240,PAT0137,Rohan Iyer,78,Male,2025-08-17,Bengaluru,Retina,Dr. K. Das,50,1040.0,Completed,UPI,2
+VIS0241,PAT0409,Rahul Das,25,Male,2025-02-21,Kurnool,General Ophthalmology,Dr. N. Iyer,2,420.0,Completed,Card,4
+VIS0242,PAT0040,Aarav Das,42,Male,2025-08-02,Kurnool,General Ophthalmology,Dr. A. Rao,31,360.0,Cancelled,Cash,
+VIS0243,PAT0064,Aditya Sharma,42,Female,2025-02-04,Kurnool,Optometry,Dr. P. Kumar,16,300.0,Completed,Card,5
+VIS0244,PAT0372,Vihaan Rao,50,Female,2025-08-26,Bengaluru,General Ophthalmology,Dr. A. Rao,2,440.0,Completed,Card,4
+VIS0245,PAT0696,Nisha Rao,34,Male,2025-08-18,Hyderabad,Retina,Dr. A. Rao,39,1050.0,Completed,Card,5
+VIS0246,PAT0028,Saanvi Verma,48,Male,2025-01-31,Hyderabad,Retina,Dr. K. Das,47,1130.0,Cancelled,UPI,
+VIS0247,PAT0323,Ishita Kumar,39,Female,2025-10-04,Hyderabad,Cataract,Dr. M. Sharma,32,1000.0,Completed,Card,3
+VIS0248,PAT0562,Priya Naidu,12,Male,2025-06-01,Hyderabad,Retina,Dr. V. Menon,41,1220.0,Completed,UPI,4
+VIS0249,PAT0204,Aarav Das,42,Male,2025-10-15,Hyderabad,Pediatric Ophthalmology,Dr. P. Kumar,20,650.0,Completed,Insurance,4
+VIS0250,PAT0346,Aarav Patel,21,Female,2025-01-16,Hyderabad,Optometry,Dr. K. Das,2,290.0,Completed,Card,5
+VIS0251,PAT0588,Arjun Verma,9,Female,2025-03-07,Hyderabad,Cataract,Dr. N. Iyer,35,820.0,Completed,Cash,3
+VIS0252,PAT0510,Kavya Gupta,45,Female,2025-06-30,Kurnool,Cataract,Dr. K. Das,45,760.0,Completed,Card,3
+VIS0253,PAT0206,Priya Rao,51,Female,2025-03-10,Bengaluru,Cataract,Dr. V. Menon,39,820.0,Cancelled,UPI,
+VIS0254,PAT0526,Ananya Menon,52,Female,2025-05-01,Bengaluru,Retina,Dr. K. Das,15,1100.0,Completed,UPI,5
+VIS0255,PAT0474,Rohan Das,53,Female,2025-08-30,Kurnool,Cornea,Dr. K. Das,11,750.0,Cancelled,UPI,
+VIS0256,PAT0355,Priya Patel,5,Female,2025-02-22,Hyderabad,General Ophthalmology,Dr. K. Das,14,460.0,Cancelled,Card,
+VIS0257,PAT0309,Aditya Gupta,16,Female,2025-09-05,Kurnool,Cataract,Dr. M. Sharma,12,770.0,Cancelled,Card,
+VIS0258,PAT0648,Diya Gupta,79,Male,2025-02-07,Bengaluru,Optometry,Dr. K. Das,16,230.0,Completed,Insurance,3
+VIS0259,PAT0612,Vihaan Sharma,22,Female,2025-03-05,Bengaluru,General Ophthalmology,Dr. V. Menon,26,510.0,Completed,UPI,2
+VIS0260,PAT0694,Rahul Joshi,54,Other,2025-08-03,Bengaluru,Retina,Dr. K. Das,21,1020.0,Completed,Card,3
+VIS0261,PAT0473,Ananya Naidu,29,Male,2025-10-17,Kurnool,Cornea,Dr. N. Iyer,34,740.0,Completed,Card,4
+VIS0262,PAT0252,Saanvi Naidu,44,Male,2025-03-04,Kurnool,General Ophthalmology,Dr. A. Rao,28,380.0,No-show,Card,
+VIS0263,PAT0077,Rahul Rao,30,Male,2025-04-20,Kurnool,General Ophthalmology,Dr. M. Sharma,17,480.0,Completed,UPI,4
+VIS0264,PAT0089,Priya Sharma,53,Male,2025-12-04,Kurnool,General Ophthalmology,Dr. A. Rao,20,540.0,Completed,UPI,4
+VIS0265,PAT0666,Vihaan Iyer,45,Female,2025-12-28,Kurnool,Optometry,Dr. A. Rao,2,280.0,Completed,Card,4
+VIS0266,PAT0255,Aarav Naidu,33,Male,2025-08-01,Kurnool,General Ophthalmology,Dr. P. Kumar,19,440.0,No-show,UPI,
+VIS0267,PAT0078,Saanvi Das,22,Female,2025-06-13,Bengaluru,General Ophthalmology,Dr. M. Sharma,22,520.0,Completed,UPI,4
+VIS0268,PAT0157,Aarav Menon,47,Male,2025-05-07,Kurnool,General Ophthalmology,Dr. N. Iyer,24,330.0,Completed,UPI,4
+VIS0269,PAT0015,Aarav Sharma,19,Male,2025-08-12,Kurnool,General Ophthalmology,Dr. R. Gupta,26,580.0,Cancelled,UPI,
+VIS0270,PAT0372,Rohan Gupta,50,Female,2025-08-04,Bengaluru,Glaucoma,Dr. V. Menon,32,1020.0,No-show,Cash,
+VIS0271,PAT0414,Rohan Menon,92,Female,2025-04-18,Hyderabad,Cataract,Dr. M. Sharma,25,530.0,Completed,Cash,3
+VIS0272,PAT0265,Sai Menon,68,Male,2025-01-09,Bengaluru,Glaucoma,Dr. P. Kumar,33,740.0,Cancelled,Card,
+VIS0273,PAT0521,Aarav Menon,56,Female,2025-02-25,Hyderabad,Glaucoma,Dr. K. Das,40,670.0,Cancelled,Insurance,
+VIS0274,PAT0337,Diya Verma,40,Female,2025-12-16,Bengaluru,Optometry,Dr. P. Kumar,15,290.0,Completed,UPI,5
+VIS0275,PAT0672,Kavya Reddy,5,Female,2025-06-02,Hyderabad,General Ophthalmology,Dr. R. Gupta,25,420.0,Completed,Cash,4
+VIS0276,PAT0535,Ananya Gupta,17,Male,2025-06-26,Hyderabad,Optometry,Dr. V. Menon,14,340.0,Completed,Card,4
+VIS0277,PAT0053,Vihaan Joshi,66,Male,2025-06-20,Hyderabad,Glaucoma,Dr. K. Das,24,740.0,Completed,UPI,4
+VIS0278,PAT0192,Kiran Das,27,Male,2025-10-13,Hyderabad,General Ophthalmology,Dr. S. Reddy,27,390.0,Completed,Insurance,5
+VIS0279,PAT0528,Nisha Kumar,29,Female,2025-01-24,Kurnool,Pediatric Ophthalmology,Dr. N. Iyer,18,580.0,Completed,UPI,4
+VIS0280,PAT0377,Kiran Joshi,39,Female,2025-01-31,Hyderabad,Optometry,Dr. V. Menon,20,320.0,Completed,UPI,5
+VIS0281,PAT0528,Aarav Kumar,22,Female,2025-04-11,Kurnool,Cataract,Dr. A. Rao,28,740.0,Completed,UPI,4
+VIS0282,PAT0235,Vihaan Patel,19,Female,2025-06-27,Bengaluru,Optometry,Dr. S. Reddy,13,230.0,Completed,UPI,4
+VIS0283,PAT0027,Vihaan Kumar,41,Male,2025-09-02,Kurnool,Retina,Dr. N. Iyer,32,1430.0,Completed,Card,4
+VIS0284,PAT0550,Nisha Iyer,25,Male,2025-06-29,Kurnool,Glaucoma,Dr. P. Kumar,25,680.0,Completed,Cash,3
+VIS0285,PAT0550,Ishita Iyer,28,Female,2025-06-11,Kurnool,Oculoplasty,Dr. K. Das,16,980.0,Completed,Insurance,4
+VIS0286,PAT0448,Kavya Iyer,27,Male,2025-12-09,Bengaluru,Cataract,Dr. M. Sharma,32,850.0,Completed,Card,3
+VIS0287,PAT0284,Meera Joshi,52,Female,2025-02-28,Kurnool,Pediatric Ophthalmology,Dr. R. Gupta,26,650.0,Completed,Insurance,4
+VIS0288,PAT0006,Aarav Iyer,38,Male,2025-07-28,Hyderabad,Cataract,Dr. P. Kumar,36,1140.0,Completed,Insurance,3
+VIS0289,PAT0510,Priya Das,39,Male,2025-07-17,Bengaluru,Pediatric Ophthalmology,Dr. P. Kumar,19,650.0,No-show,UPI,
+VIS0290,PAT0463,Nisha Verma,53,Male,2025-06-22,Kurnool,Glaucoma,Dr. A. Rao,49,580.0,Completed,UPI,4
+VIS0291,PAT0468,Ishita Menon,39,Male,2025-10-22,Bengaluru,General Ophthalmology,Dr. S. Reddy,18,360.0,Cancelled,Card,
+VIS0292,PAT0120,Diya Kumar,37,Male,2025-04-08,Kurnool,Retina,Dr. S. Reddy,26,1030.0,Completed,UPI,3
+VIS0293,PAT0512,Kavya Rao,51,Female,2025-12-15,Kurnool,Cataract,Dr. V. Menon,18,860.0,Completed,Cash,4
+VIS0294,PAT0508,Ishita Naidu,55,Female,2025-05-02,Hyderabad,General Ophthalmology,Dr. P. Kumar,5,330.0,No-show,UPI,
+VIS0295,PAT0601,Rohan Verma,39,Female,2025-07-18,Bengaluru,General Ophthalmology,Dr. S. Reddy,37,510.0,Cancelled,UPI,
+VIS0296,PAT0398,Arjun Das,44,Male,2025-07-10,Kurnool,Cataract,Dr. P. Kumar,42,750.0,Completed,Insurance,4
+VIS0297,PAT0513,Vihaan Kumar,27,Male,2025-11-07,Hyderabad,General Ophthalmology,Dr. N. Iyer,28,550.0,Completed,UPI,4
+VIS0298,PAT0282,Vihaan Gupta,26,Male,2025-06-10,Kurnool,General Ophthalmology,Dr. V. Menon,13,570.0,Completed,Card,4
+VIS0299,PAT0488,Diya Gupta,57,Male,2025-04-14,Hyderabad,Cornea,Dr. R. Gupta,44,820.0,Completed,Insurance,4
+VIS0300,PAT0486,Ishita Das,50,Female,2025-01-08,Hyderabad,Cornea,Dr. A. Rao,22,910.0,Completed,UPI,4
+VIS0301,PAT0546,Nisha Verma,51,Male,2025-05-13,Hyderabad,Cornea,Dr. V. Menon,23,690.0,No-show,Card,
+VIS0302,PAT0600,Aarav Menon,47,Male,2025-10-29,Hyderabad,Cataract,Dr. M. Sharma,42,980.0,Completed,Cash,4
+VIS0303,PAT0003,Kavya Gupta,43,Female,2025-01-04,Kurnool,Optometry,Dr. V. Menon,23,280.0,Completed,Cash,4
+VIS0304,PAT0546,Vihaan Naidu,55,Female,2025-11-24,Hyderabad,Glaucoma,Dr. A. Rao,52,630.0,Completed,Cash,4
+VIS0305,PAT0555,Aditya Naidu,60,Female,2025-07-18,Hyderabad,General Ophthalmology,Dr. K. Das,24,430.0,Completed,UPI,3
+VIS0306,PAT0382,Rohan Das,59,Female,2025-02-21,Hyderabad,General Ophthalmology,Dr. R. Gupta,18,420.0,Completed,UPI,5
+VIS0307,PAT0364,Aditya Iyer,40,Male,2025-04-21,Kurnool,Cornea,Dr. A. Rao,20,810.0,Completed,UPI,4
+VIS0308,PAT0506,Rahul Gupta,68,Male,2025-07-22,Hyderabad,General Ophthalmology,Dr. V. Menon,4,510.0,Completed,UPI,5
+VIS0309,PAT0319,Arjun Naidu,46,Male,2025-04-26,Hyderabad,Retina,Dr. A. Rao,32,970.0,Completed,Cash,3
+VIS0310,PAT0290,Rahul Iyer,54,Female,2025-02-09,Kurnool,Oculoplasty,Dr. R. Gupta,43,1260.0,Completed,Card,3
+VIS0311,PAT0563,Priya Reddy,47,Male,2025-09-01,Kurnool,General Ophthalmology,Dr. K. Das,28,360.0,Completed,Cash,2
+VIS0312,PAT0553,Rohan Gupta,47,Male,2025-09-03,Hyderabad,General Ophthalmology,Dr. R. Gupta,22,560.0,Cancelled,Card,
+VIS0313,PAT0145,Sai Naidu,28,Female,2025-02-13,Hyderabad,Oculoplasty,Dr. R. Gupta,22,850.0,Completed,Insurance,4
+VIS0314,PAT0581,Aditya Patel,55,Male,2025-04-13,Kurnool,Glaucoma,Dr. P. Kumar,32,750.0,Completed,Card,3
+VIS0315,PAT0229,Priya Patel,95,Female,2025-03-31,Bengaluru,General Ophthalmology,Dr. M. Sharma,32,420.0,Completed,UPI,5
+VIS0316,PAT0097,Aarav Kumar,35,Female,2025-08-29,Hyderabad,Optometry,Dr. K. Das,20,280.0,Completed,Card,3
+VIS0317,PAT0615,Saanvi Joshi,43,Female,2025-09-24,Bengaluru,Optometry,Dr. S. Reddy,18,340.0,Completed,Card,4
+VIS0318,PAT0167,Meera Verma,34,Female,2025-09-23,Hyderabad,Retina,Dr. P. Kumar,27,1350.0,Completed,Insurance,3
+VIS0319,PAT0143,Rahul Das,33,Male,2025-12-09,Hyderabad,Glaucoma,Dr. A. Rao,39,880.0,Completed,Insurance,3
+VIS0320,PAT0189,Rahul Patel,71,Female,2025-10-08,Hyderabad,Cataract,Dr. R. Gupta,2,850.0,No-show,UPI,
+VIS0321,PAT0345,Meera Gupta,29,Female,2025-04-28,Bengaluru,General Ophthalmology,Dr. S. Reddy,26,460.0,Completed,Card,5
+VIS0322,PAT0117,Aditya Das,33,Female,2025-02-09,Hyderabad,Glaucoma,Dr. M. Sharma,56,660.0,Completed,Card,3
+VIS0323,PAT0112,Rohan Joshi,12,Female,2025-08-13,Hyderabad,Cataract,Dr. M. Sharma,13,770.0,Completed,Cash,4
+VIS0324,PAT0275,Ananya Rao,28,Female,2025-12-01,Hyderabad,Cornea,Dr. M. Sharma,24,700.0,No-show,UPI,
+VIS0325,PAT0153,Meera Rao,10,Female,2025-12-22,Hyderabad,Optometry,Dr. V. Menon,16,280.0,No-show,Card,
+VIS0326,PAT0136,Ishita Das,54,Male,2025-03-26,Kurnool,General Ophthalmology,Dr. R. Gupta,17,470.0,Completed,Card,5
+VIS0327,PAT0639,Rohan Kumar,95,Female,2025-03-28,Hyderabad,Glaucoma,Dr. N. Iyer,40,530.0,Completed,UPI,3
+VIS0328,PAT0417,Arjun Naidu,35,Male,2025-01-14,Hyderabad,General Ophthalmology,Dr. V. Menon,27,450.0,Completed,UPI,3
+VIS0329,PAT0010,Kavya Menon,10,Female,2025-02-21,Bengaluru,Optometry,Dr. A. Rao,18,370.0,Cancelled,UPI,
+VIS0330,PAT0072,Kiran Reddy,59,Male,2025-07-22,Hyderabad,Cataract,Dr. R. Gupta,36,1050.0,Completed,UPI,4
+VIS0331,PAT0570,Diya Iyer,28,Male,2025-07-19,Hyderabad,Glaucoma,Dr. A. Rao,30,680.0,Completed,Insurance,4
+VIS0332,PAT0189,Diya Gupta,67,Female,2025-05-16,Bengaluru,Glaucoma,Dr. A. Rao,62,590.0,Completed,Insurance,2
+VIS0333,PAT0107,Ishita Verma,37,Female,2025-04-24,Hyderabad,Cataract,Dr. A. Rao,30,960.0,Completed,UPI,4
+VIS0334,PAT0466,Arjun Iyer,30,Male,2025-10-30,Kurnool,Cornea,Dr. S. Reddy,28,550.0,Cancelled,UPI,
+VIS0335,PAT0587,Priya Kumar,39,Female,2025-06-17,Kurnool,Cornea,Dr. V. Menon,9,990.0,Completed,Card,4
+VIS0336,PAT0279,Rahul Naidu,56,Male,2025-10-23,Kurnool,Glaucoma,Dr. P. Kumar,25,730.0,Completed,Card,5
+VIS0337,PAT0521,Aditya Iyer,38,Female,2025-12-18,Kurnool,Pediatric Ophthalmology,Dr. V. Menon,35,760.0,Completed,UPI,4
+VIS0338,PAT0296,Sai Menon,33,Female,2025-04-26,Hyderabad,Oculoplasty,Dr. M. Sharma,19,740.0,Completed,UPI,3
+VIS0339,PAT0077,Diya Das,38,Male,2025-03-15,Bengaluru,Retina,Dr. A. Rao,13,1250.0,Completed,Cash,4
+VIS0340,PAT0559,Sai Sharma,18,Male,2025-12-14,Hyderabad,Retina,Dr. M. Sharma,35,1080.0,Completed,Card,4
+VIS0341,PAT0644,Kiran Menon,50,Female,2025-08-20,Kurnool,General Ophthalmology,Dr. S. Reddy,36,430.0,Cancelled,Card,
+VIS0342,PAT0690,Arjun Das,8,Male,2025-04-17,Hyderabad,Pediatric Ophthalmology,Dr. P. Kumar,24,480.0,Completed,UPI,3
+VIS0343,PAT0071,Kiran Kumar,34,Male,2025-08-15,Kurnool,Retina,Dr. N. Iyer,32,1200.0,Completed,Insurance,5
+VIS0344,PAT0396,Vihaan Das,56,Female,2025-07-07,Bengaluru,Cataract,Dr. V. Menon,9,990.0,Completed,Card,4
+VIS0345,PAT0437,Vihaan Joshi,48,Female,2025-11-27,Kurnool,General Ophthalmology,Dr. N. Iyer,27,570.0,Completed,Insurance,5
+VIS0346,PAT0056,Kiran Gupta,53,Female,2025-04-04,Hyderabad,Optometry,Dr. S. Reddy,23,350.0,Completed,UPI,4
+VIS0347,PAT0667,Rohan Sharma,41,Female,2025-12-28,Kurnool,Cataract,Dr. K. Das,10,820.0,Completed,UPI,4
+VIS0348,PAT0073,Meera Gupta,64,Male,2025-12-08,Hyderabad,Cornea,Dr. K. Das,37,720.0,Completed,Insurance,4
+VIS0349,PAT0189,Rohan Sharma,60,Female,2025-03-07,Hyderabad,General Ophthalmology,Dr. S. Reddy,30,360.0,Completed,Insurance,3
+VIS0350,PAT0678,Vihaan Das,50,Female,2025-03-02,Bengaluru,Oculoplasty,Dr. V. Menon,43,1220.0,Completed,Insurance,4
+VIS0351,PAT0390,Aditya Das,60,Male,2025-07-14,Kurnool,General Ophthalmology,Dr. V. Menon,28,400.0,Completed,Card,2
+VIS0352,PAT0476,Arjun Kumar,56,Male,2025-01-17,Bengaluru,General Ophthalmology,Dr. N. Iyer,29,550.0,Completed,UPI,4
+VIS0353,PAT0346,Rohan Patel,34,Male,2025-04-20,Hyderabad,Optometry,Dr. P. Kumar,21,320.0,Cancelled,UPI,
+VIS0354,PAT0527,Diya Joshi,16,Male,2025-06-08,Bengaluru,Optometry,Dr. P. Kumar,25,310.0,Completed,UPI,4
+VIS0355,PAT0058,Ishita Sharma,50,Female,2025-12-20,Bengaluru,General Ophthalmology,Dr. M. Sharma,4,430.0,Completed,Insurance,5
+VIS0356,PAT0474,Saanvi Menon,52,Male,2025-12-29,Bengaluru,Retina,Dr. S. Reddy,20,1210.0,No-show,UPI,
+VIS0357,PAT0047,Meera Gupta,63,Female,2025-02-25,Kurnool,Cornea,Dr. P. Kumar,19,850.0,Completed,Card,3
+VIS0358,PAT0126,Ananya Das,24,Female,2025-11-22,Kurnool,Optometry,Dr. S. Reddy,15,280.0,Completed,Insurance,3
+VIS0359,PAT0355,Ananya Reddy,25,Female,2025-02-03,Kurnool,Cataract,Dr. S. Reddy,32,990.0,Completed,Insurance,3
+VIS0360,PAT0314,Saanvi Kumar,51,Male,2025-10-01,Kurnool,Retina,Dr. K. Das,38,1080.0,Completed,Insurance,4
+VIS0361,PAT0107,Aarav Kumar,41,Male,2025-11-05,Hyderabad,Cornea,Dr. S. Reddy,37,750.0,Completed,UPI,2
+VIS0362,PAT0559,Rahul Naidu,6,Female,2025-11-22,Bengaluru,Cornea,Dr. M. Sharma,37,930.0,Completed,UPI,4
+VIS0363,PAT0212,Rohan Joshi,49,Male,2025-03-23,Bengaluru,Pediatric Ophthalmology,Dr. M. Sharma,15,590.0,Completed,Insurance,4
+VIS0364,PAT0607,Rohan Verma,7,Male,2025-11-23,Hyderabad,Glaucoma,Dr. A. Rao,32,810.0,Completed,UPI,4
+VIS0365,PAT0011,Ishita Rao,24,Female,2025-02-12,Hyderabad,General Ophthalmology,Dr. V. Menon,14,420.0,Completed,UPI,4
+VIS0366,PAT0167,Ananya Sharma,68,Male,2025-07-09,Bengaluru,Optometry,Dr. R. Gupta,14,250.0,Completed,Insurance,4
+VIS0367,PAT0208,Vihaan Reddy,77,Female,2025-06-21,Bengaluru,Optometry,Dr. K. Das,19,380.0,Completed,Card,4
+VIS0368,PAT0418,Rohan Joshi,19,Other,2025-04-26,Kurnool,Pediatric Ophthalmology,Dr. K. Das,2,740.0,Completed,UPI,3
+VIS0369,PAT0281,Diya Kumar,36,Female,2025-01-09,Hyderabad,General Ophthalmology,Dr. S. Reddy,46,510.0,No-show,Cash,
+VIS0370,PAT0110,Kavya Kumar,43,Female,2025-10-09,Bengaluru,General Ophthalmology,Dr. V. Menon,28,420.0,Completed,UPI,3
+VIS0371,PAT0400,Nisha Naidu,76,Female,2025-05-03,Kurnool,Cornea,Dr. V. Menon,20,810.0,Completed,Insurance,4
+VIS0372,PAT0671,Sai Das,33,Female,2025-08-30,Hyderabad,General Ophthalmology,Dr. M. Sharma,41,540.0,Completed,Card,4
+VIS0373,PAT0094,Saanvi Kumar,33,Male,2025-05-30,Bengaluru,Oculoplasty,Dr. K. Das,29,950.0,Completed,UPI,5
+VIS0374,PAT0177,Saanvi Gupta,71,Male,2025-05-17,Bengaluru,Cataract,Dr. R. Gupta,29,810.0,Completed,UPI,4
+VIS0375,PAT0335,Kavya Reddy,35,Female,2025-11-20,Bengaluru,Cornea,Dr. N. Iyer,21,1090.0,Completed,Insurance,4
+VIS0376,PAT0509,Vihaan Rao,56,Male,2025-02-04,Bengaluru,Optometry,Dr. S. Reddy,33,300.0,Completed,Insurance,3
+VIS0377,PAT0096,Rahul Rao,14,Male,2025-09-26,Kurnool,Cataract,Dr. P. Kumar,27,1140.0,Completed,UPI,4
+VIS0378,PAT0162,Sai Patel,39,Male,2025-09-30,Kurnool,Cataract,Dr. S. Reddy,29,710.0,Completed,Card,4
+VIS0379,PAT0165,Arjun Joshi,10,Male,2025-05-19,Hyderabad,Glaucoma,Dr. P. Kumar,42,810.0,Completed,UPI,4
+VIS0380,PAT0432,Priya Das,22,Female,2025-04-06,Hyderabad,Glaucoma,Dr. R. Gupta,36,980.0,Completed,UPI,3
+VIS0381,PAT0058,Sai Menon,58,Female,2025-01-02,Hyderabad,Cataract,Dr. S. Reddy,27,900.0,Completed,UPI,4
+VIS0382,PAT0462,Aditya Sharma,41,Male,2025-12-08,Hyderabad,Glaucoma,Dr. R. Gupta,41,720.0,Completed,UPI,4
+VIS0383,PAT0298,Kavya Gupta,36,Male,2025-12-12,Hyderabad,Optometry,Dr. P. Kumar,41,250.0,Completed,UPI,3
+VIS0384,PAT0230,Kavya Joshi,28,Male,2025-03-29,Hyderabad,Retina,Dr. M. Sharma,38,1280.0,Completed,UPI,3
+VIS0385,PAT0604,Kiran Patel,38,Male,2025-01-12,Kurnool,General Ophthalmology,Dr. N. Iyer,23,400.0,Completed,UPI,5
+VIS0386,PAT0574,Kavya Joshi,48,Female,2025-02-14,Kurnool,Cataract,Dr. S. Reddy,30,890.0,Completed,Cash,3
+VIS0387,PAT0563,Ananya Naidu,61,Male,2025-01-25,Kurnool,Cataract,Dr. S. Reddy,41,730.0,Completed,Cash,3
+VIS0388,PAT0620,Saanvi Gupta,1,Female,2025-10-31,Kurnool,General Ophthalmology,Dr. P. Kumar,16,560.0,No-show,Card,
+VIS0389,PAT0164,Kavya Sharma,26,Female,2025-11-22,Bengaluru,General Ophthalmology,Dr. A. Rao,19,530.0,Completed,UPI,4
+VIS0390,PAT0599,Kavya Naidu,45,Female,2025-02-25,Hyderabad,Cornea,Dr. V. Menon,11,850.0,Completed,Cash,4
+VIS0391,PAT0124,Ananya Das,40,Female,2025-09-30,Kurnool,Cataract,Dr. N. Iyer,16,740.0,Completed,Insurance,4
+VIS0392,PAT0232,Vihaan Joshi,50,Male,2025-03-07,Bengaluru,Oculoplasty,Dr. V. Menon,27,1230.0,No-show,UPI,
+VIS0393,PAT0389,Rahul Verma,47,Female,2025-05-15,Hyderabad,Cataract,Dr. V. Menon,27,850.0,Completed,Insurance,3
+VIS0394,PAT0522,Saanvi Patel,36,Male,2025-08-07,Kurnool,General Ophthalmology,Dr. P. Kumar,40,380.0,Completed,Card,5
+VIS0395,PAT0405,Rohan Joshi,32,Male,2025-09-20,Kurnool,Pediatric Ophthalmology,Dr. V. Menon,29,440.0,No-show,Card,
+VIS0396,PAT0392,Vihaan Verma,37,Male,2025-11-16,Kurnool,Optometry,Dr. A. Rao,7,270.0,Completed,UPI,5
+VIS0397,PAT0264,Rohan Naidu,64,Male,2025-01-17,Hyderabad,Cataract,Dr. M. Sharma,21,700.0,No-show,UPI,
+VIS0398,PAT0415,Aditya Rao,28,Female,2025-03-13,Kurnool,General Ophthalmology,Dr. K. Das,36,410.0,Completed,Card,3
+VIS0399,PAT0333,Vihaan Reddy,41,Female,2025-04-13,Kurnool,General Ophthalmology,Dr. M. Sharma,33,500.0,Completed,Card,3
+VIS0400,PAT0335,Rahul Rao,45,Female,2025-04-24,Kurnool,Retina,Dr. K. Das,35,1040.0,Completed,UPI,3
+VIS0401,PAT0411,Saanvi Reddy,72,Female,2025-12-31,Hyderabad,Retina,Dr. V. Menon,31,1160.0,Completed,Card,4
+VIS0402,PAT0421,Rahul Joshi,36,Male,2025-10-11,Kurnool,Cataract,Dr. M. Sharma,39,800.0,No-show,UPI,
+VIS0403,PAT0231,Rohan Kumar,60,Male,2025-04-27,Bengaluru,General Ophthalmology,Dr. P. Kumar,12,450.0,Completed,Insurance,5
+VIS0404,PAT0095,Meera Gupta,65,Female,2025-12-21,Kurnool,Retina,Dr. N. Iyer,39,1420.0,No-show,Card,
+VIS0405,PAT0210,Priya Naidu,41,Female,2025-07-02,Hyderabad,Oculoplasty,Dr. V. Menon,55,950.0,Completed,Cash,3
+VIS0406,PAT0287,Saanvi Naidu,38,Male,2025-07-02,Hyderabad,Cornea,Dr. R. Gupta,28,900.0,Completed,Insurance,3
+VIS0407,PAT0113,Diya Kumar,36,Male,2025-06-08,Hyderabad,Retina,Dr. V. Menon,27,840.0,No-show,Insurance,
+VIS0408,PAT0125,Sai Das,37,Female,2025-02-22,Kurnool,General Ophthalmology,Dr. S. Reddy,26,550.0,Completed,Card,3
+VIS0409,PAT0666,Nisha Naidu,58,Male,2025-12-08,Bengaluru,Cataract,Dr. S. Reddy,23,840.0,No-show,Cash,
+VIS0410,PAT0197,Meera Das,46,Male,2025-01-06,Bengaluru,Cataract,Dr. N. Iyer,14,1040.0,Completed,Card,5
+VIS0411,PAT0518,Priya Kumar,46,Male,2025-03-05,Kurnool,Pediatric Ophthalmology,Dr. M. Sharma,31,590.0,Completed,Card,4
+VIS0412,PAT0090,Meera Gupta,21,Female,2025-03-25,Kurnool,Optometry,Dr. N. Iyer,27,330.0,Completed,UPI,3
+VIS0413,PAT0681,Ananya Rao,24,Male,2025-04-12,Bengaluru,Optometry,Dr. R. Gupta,13,330.0,Completed,Insurance,3
+VIS0414,PAT0149,Vihaan Naidu,83,Female,2025-02-18,Hyderabad,Oculoplasty,Dr. N. Iyer,28,930.0,Completed,UPI,4
+VIS0415,PAT0276,Diya Iyer,39,Female,2025-01-07,Kurnool,Oculoplasty,Dr. P. Kumar,22,1160.0,Completed,Insurance,3
+VIS0416,PAT0548,Vihaan Sharma,27,Male,2025-09-05,Kurnool,Oculoplasty,Dr. V. Menon,31,890.0,Completed,Card,4
+VIS0417,PAT0142,Aarav Menon,69,Male,2025-12-20,Hyderabad,General Ophthalmology,Dr. M. Sharma,16,500.0,Completed,UPI,4
+VIS0418,PAT0385,Meera Kumar,47,Female,2025-02-14,Hyderabad,General Ophthalmology,Dr. N. Iyer,12,420.0,Cancelled,Insurance,
+VIS0419,PAT0550,Kiran Joshi,53,Male,2025-04-19,Hyderabad,Cataract,Dr. S. Reddy,47,950.0,Completed,UPI,4
+VIS0420,PAT0017,Nisha Verma,39,Female,2025-07-04,Bengaluru,Glaucoma,Dr. N. Iyer,35,700.0,Completed,UPI,3
+VIS0421,PAT0018,Rohan Patel,36,Male,2025-12-05,Hyderabad,General Ophthalmology,Dr. M. Sharma,28,450.0,No-show,UPI,
+VIS0422,PAT0552,Ishita Sharma,39,Other,2025-09-11,Kurnool,Optometry,Dr. A. Rao,25,250.0,Completed,Cash,4
+VIS0423,PAT0184,Sai Reddy,16,Male,2025-10-07,Hyderabad,Glaucoma,Dr. S. Reddy,38,780.0,Completed,Card,3
+VIS0424,PAT0637,Nisha Verma,40,Male,2025-08-01,Hyderabad,Glaucoma,Dr. K. Das,26,750.0,Completed,UPI,2
+VIS0425,PAT0650,Nisha Naidu,48,Male,2025-06-02,Kurnool,General Ophthalmology,Dr. S. Reddy,25,410.0,Completed,Insurance,4
+VIS0426,PAT0617,Nisha Rao,77,Male,2025-03-14,Kurnool,Cataract,Dr. S. Reddy,25,890.0,Completed,Insurance,3
+VIS0427,PAT0698,Nisha Das,44,Male,2025-11-12,Hyderabad,General Ophthalmology,Dr. A. Rao,26,460.0,Completed,Card,4
+VIS0428,PAT0577,Kavya Reddy,1,Male,2025-10-21,Hyderabad,Optometry,Dr. A. Rao,19,270.0,Completed,UPI,5
+VIS0429,PAT0269,Sai Das,40,Female,2025-01-10,Kurnool,Glaucoma,Dr. M. Sharma,26,740.0,Completed,Card,4
+VIS0430,PAT0695,Ananya Das,94,Male,2025-09-19,Hyderabad,Cornea,Dr. M. Sharma,13,720.0,Completed,Cash,5
+VIS0431,PAT0243,Aarav Rao,58,Female,2025-01-31,Hyderabad,Cataract,Dr. N. Iyer,29,1220.0,Completed,Card,4
+VIS0432,PAT0411,Kiran Menon,27,Other,2025-09-27,Hyderabad,Cataract,Dr. N. Iyer,26,1040.0,Completed,UPI,5
+VIS0433,PAT0004,Ananya Sharma,53,Female,2025-10-29,Bengaluru,Cataract,Dr. N. Iyer,9,940.0,Completed,Insurance,4
+VIS0434,PAT0674,Rohan Das,28,Female,2025-02-17,Bengaluru,Pediatric Ophthalmology,Dr. R. Gupta,29,710.0,Cancelled,UPI,
+VIS0435,PAT0415,Aarav Naidu,16,Male,2025-06-08,Hyderabad,Pediatric Ophthalmology,Dr. S. Reddy,34,420.0,Completed,UPI,4
+VIS0436,PAT0665,Meera Joshi,35,Female,2025-02-15,Kurnool,General Ophthalmology,Dr. K. Das,47,280.0,Completed,Insurance,3
+VIS0437,PAT0247,Arjun Iyer,44,Female,2025-07-27,Hyderabad,Optometry,Dr. A. Rao,12,280.0,Completed,UPI,5
+VIS0438,PAT0220,Ananya Joshi,6,Male,2025-12-05,Hyderabad,General Ophthalmology,Dr. V. Menon,17,360.0,Completed,Insurance,4
+VIS0439,PAT0366,Nisha Patel,20,Female,2025-01-30,Kurnool,Optometry,Dr. P. Kumar,5,290.0,Completed,Insurance,5
+VIS0440,PAT0605,Meera Verma,42,Female,2025-05-26,Kurnool,General Ophthalmology,Dr. P. Kumar,24,460.0,Completed,UPI,5
+VIS0441,PAT0385,Arjun Kumar,34,Male,2025-12-22,Kurnool,Cataract,Dr. S. Reddy,30,1020.0,No-show,UPI,
+VIS0442,PAT0555,Diya Gupta,50,Female,2025-04-20,Hyderabad,Optometry,Dr. N. Iyer,8,250.0,Completed,UPI,5
+VIS0443,PAT0151,Diya Reddy,19,Female,2025-02-18,Hyderabad,General Ophthalmology,Dr. M. Sharma,20,480.0,Cancelled,Card,
+VIS0444,PAT0544,Vihaan Joshi,56,Female,2025-06-28,Kurnool,Retina,Dr. R. Gupta,15,1100.0,Completed,Insurance,3
+VIS0445,PAT0513,Nisha Joshi,20,Female,2025-07-05,Bengaluru,Retina,Dr. S. Reddy,44,1160.0,Completed,UPI,3
+VIS0446,PAT0628,Arjun Iyer,73,Female,2025-08-30,Bengaluru,Cataract,Dr. M. Sharma,20,830.0,Completed,Card,5
+VIS0447,PAT0041,Meera Das,9,Female,2025-04-25,Kurnool,Cornea,Dr. R. Gupta,26,1030.0,Completed,UPI,4
+VIS0448,PAT0269,Aarav Naidu,21,Male,2025-12-15,Bengaluru,Optometry,Dr. V. Menon,2,300.0,Cancelled,Card,
+VIS0449,PAT0063,Aarav Sharma,50,Male,2025-07-10,Kurnool,Optometry,Dr. V. Menon,10,380.0,No-show,Card,
+VIS0450,PAT0281,Arjun Gupta,74,Female,2025-04-15,Bengaluru,Cataract,Dr. N. Iyer,25,790.0,Cancelled,Insurance,
+VIS0451,PAT0532,Sai Gupta,48,Female,2025-12-17,Bengaluru,Retina,Dr. V. Menon,35,1220.0,Completed,UPI,3
+VIS0452,PAT0449,Rohan Das,53,Male,2025-12-04,Kurnool,Cataract,Dr. S. Reddy,33,890.0,Completed,UPI,3
+VIS0453,PAT0528,Kiran Reddy,42,Male,2025-07-02,Bengaluru,Cataract,Dr. V. Menon,42,860.0,Completed,UPI,4
+VIS0454,PAT0517,Kavya Joshi,22,Female,2025-01-10,Bengaluru,General Ophthalmology,Dr. N. Iyer,29,490.0,No-show,Cash,
+VIS0455,PAT0695,Diya Reddy,33,Female,2025-08-06,Bengaluru,Optometry,Dr. P. Kumar,26,290.0,Completed,UPI,4
+VIS0456,PAT0616,Vihaan Naidu,19,Female,2025-07-22,Bengaluru,Optometry,Dr. S. Reddy,30,180.0,Completed,Insurance,4
+VIS0457,PAT0411,Aarav Reddy,18,Male,2025-02-24,Hyderabad,Pediatric Ophthalmology,Dr. N. Iyer,30,320.0,Completed,UPI,3
+VIS0458,PAT0614,Aditya Reddy,50,Male,2025-08-20,Kurnool,Retina,Dr. A. Rao,35,1310.0,Completed,UPI,4
+VIS0459,PAT0034,Ananya Rao,21,Male,2025-11-03,Bengaluru,Retina,Dr. K. Das,45,1300.0,Completed,Card,4
+VIS0460,PAT0505,Priya Patel,48,Female,2025-02-08,Hyderabad,Retina,Dr. S. Reddy,46,1410.0,No-show,UPI,
+VIS0461,PAT0366,Arjun Naidu,17,Female,2025-09-22,Hyderabad,Retina,Dr. M. Sharma,41,1100.0,Cancelled,UPI,
+VIS0462,PAT0670,Vihaan Das,48,Female,2025-02-21,Hyderabad,Retina,Dr. S. Reddy,20,890.0,No-show,Insurance,
+VIS0463,PAT0353,Meera Gupta,33,Female,2025-10-01,Hyderabad,General Ophthalmology,Dr. M. Sharma,14,420.0,Completed,Cash,4
+VIS0464,PAT0126,Saanvi Gupta,69,Female,2025-06-02,Kurnool,General Ophthalmology,Dr. P. Kumar,19,450.0,Completed,UPI,3
+VIS0465,PAT0507,Diya Reddy,48,Male,2025-01-03,Hyderabad,Oculoplasty,Dr. S. Reddy,40,850.0,Completed,UPI,4
+VIS0466,PAT0666,Kiran Rao,65,Female,2025-12-19,Kurnool,Retina,Dr. R. Gupta,35,1370.0,Completed,UPI,4
+VIS0467,PAT0012,Meera Naidu,28,Male,2025-03-02,Hyderabad,Oculoplasty,Dr. V. Menon,43,1340.0,Completed,UPI,3
+VIS0468,PAT0045,Nisha Naidu,43,Female,2025-08-06,Bengaluru,General Ophthalmology,Dr. M. Sharma,35,480.0,Completed,UPI,4
+VIS0469,PAT0463,Kavya Das,23,Female,2025-03-08,Hyderabad,Glaucoma,Dr. A. Rao,42,750.0,Completed,UPI,3
+VIS0470,PAT0389,Meera Kumar,34,Male,2025-12-07,Hyderabad,General Ophthalmology,Dr. V. Menon,34,360.0,Completed,Insurance,3
+VIS0471,PAT0385,Aditya Menon,37,Male,2025-09-27,Kurnool,Cataract,Dr. K. Das,18,1110.0,Completed,UPI,3
+VIS0472,PAT0064,Ishita Rao,28,Female,2025-10-21,Bengaluru,General Ophthalmology,Dr. N. Iyer,27,460.0,Completed,UPI,4
+VIS0473,PAT0401,Aarav Naidu,19,Male,2025-06-07,Hyderabad,General Ophthalmology,Dr. N. Iyer,16,430.0,Completed,UPI,3
+VIS0474,PAT0398,Aditya Reddy,15,Female,2025-06-20,Hyderabad,Optometry,Dr. A. Rao,2,320.0,No-show,Insurance,
+VIS0475,PAT0595,Aarav Naidu,1,Female,2025-08-20,Kurnool,Cataract,Dr. M. Sharma,25,820.0,Completed,Cash,4
+VIS0476,PAT0274,Rohan Iyer,22,Male,2025-10-14,Kurnool,Glaucoma,Dr. S. Reddy,43,770.0,Cancelled,Insurance,
+VIS0477,PAT0244,Arjun Gupta,54,Female,2025-11-06,Hyderabad,Retina,Dr. K. Das,40,860.0,Completed,UPI,4
+VIS0478,PAT0058,Priya Rao,12,Male,2025-01-07,Bengaluru,Cataract,Dr. R. Gupta,48,1050.0,Completed,Insurance,3
+VIS0479,PAT0397,Ananya Das,16,Female,2025-08-31,Hyderabad,Retina,Dr. N. Iyer,37,1080.0,Completed,UPI,4
+VIS0480,PAT0454,Saanvi Reddy,76,Male,2025-02-09,Kurnool,General Ophthalmology,Dr. N. Iyer,46,530.0,Cancelled,Cash,
+VIS0481,PAT0197,Vihaan Gupta,30,Male,2025-04-16,Bengaluru,Oculoplasty,Dr. K. Das,34,970.0,Completed,UPI,4
+VIS0482,PAT0512,Meera Reddy,48,Female,2025-10-30,Hyderabad,Pediatric Ophthalmology,Dr. R. Gupta,24,590.0,Completed,UPI,4
+VIS0483,PAT0657,Saanvi Rao,54,Female,2025-04-02,Bengaluru,Cornea,Dr. A. Rao,13,700.0,Completed,Card,4
+VIS0484,PAT0122,Diya Gupta,55,Female,2025-10-18,Kurnool,Retina,Dr. P. Kumar,46,1230.0,Completed,Card,4
+VIS0485,PAT0401,Diya Rao,13,Male,2025-06-18,Hyderabad,General Ophthalmology,Dr. P. Kumar,17,390.0,Completed,Card,4
+VIS0486,PAT0487,Kavya Kumar,38,Male,2025-03-26,Bengaluru,Optometry,Dr. K. Das,10,280.0,Completed,UPI,5
+VIS0487,PAT0013,Kiran Menon,11,Male,2025-05-02,Kurnool,Cataract,Dr. M. Sharma,41,900.0,Completed,Card,3
+VIS0488,PAT0126,Kavya Menon,88,Female,2025-07-13,Hyderabad,General Ophthalmology,Dr. V. Menon,34,460.0,Completed,UPI,4
+VIS0489,PAT0277,Ishita Verma,12,Female,2025-10-07,Bengaluru,Cataract,Dr. M. Sharma,39,670.0,Completed,Insurance,3
+VIS0490,PAT0097,Aarav Sharma,22,Male,2025-08-10,Kurnool,Pediatric Ophthalmology,Dr. R. Gupta,20,580.0,Completed,Card,5
+VIS0491,PAT0249,Diya Das,22,Female,2025-12-07,Kurnool,Glaucoma,Dr. V. Menon,29,840.0,Cancelled,UPI,
+VIS0492,PAT0104,Sai Menon,14,Male,2025-11-13,Hyderabad,Pediatric Ophthalmology,Dr. A. Rao,23,570.0,Cancelled,Insurance,
+VIS0493,PAT0628,Kavya Reddy,68,Female,2025-10-02,Kurnool,Pediatric Ophthalmology,Dr. R. Gupta,32,580.0,Completed,UPI,3
+VIS0494,PAT0420,Rahul Gupta,88,Female,2025-08-09,Kurnool,General Ophthalmology,Dr. R. Gupta,38,460.0,Completed,UPI,3
+VIS0495,PAT0231,Meera Reddy,33,Male,2025-04-16,Hyderabad,Optometry,Dr. A. Rao,20,290.0,Completed,UPI,4
+VIS0496,PAT0546,Ananya Verma,17,Male,2025-05-31,Bengaluru,Retina,Dr. M. Sharma,55,930.0,Completed,Card,2
+VIS0497,PAT0013,Arjun Naidu,1,Male,2025-02-13,Kurnool,Glaucoma,Dr. R. Gupta,39,750.0,Completed,UPI,3
+VIS0498,PAT0418,Kavya Iyer,37,Female,2025-05-17,Kurnool,General Ophthalmology,Dr. V. Menon,20,520.0,Completed,Cash,4
+VIS0499,PAT0479,Diya Iyer,36,Male,2025-12-05,Bengaluru,Oculoplasty,Dr. M. Sharma,40,840.0,No-show,Card,
+VIS0500,PAT0567,Diya Kumar,30,Male,2025-06-05,Hyderabad,Cataract,Dr. N. Iyer,45,850.0,Completed,Cash,3
+VIS0501,PAT0156,Rahul Patel,46,Male,2025-02-11,Bengaluru,General Ophthalmology,Dr. A. Rao,42,360.0,Cancelled,Card,
+VIS0502,PAT0415,Aditya Gupta,50,Male,2025-08-26,Hyderabad,Retina,Dr. N. Iyer,47,1260.0,Completed,Cash,3
+VIS0503,PAT0538,Kiran Das,48,Male,2025-12-18,Bengaluru,General Ophthalmology,Dr. K. Das,22,440.0,Completed,UPI,5
+VIS0504,PAT0559,Vihaan Das,36,Male,2025-11-13,Hyderabad,General Ophthalmology,Dr. P. Kumar,20,390.0,Completed,Insurance,3
+VIS0505,PAT0123,Rahul Kumar,21,Female,2025-04-11,Kurnool,Glaucoma,Dr. P. Kumar,36,760.0,Completed,Cash,3
+VIS0506,PAT0684,Diya Gupta,55,Female,2025-06-15,Bengaluru,Cataract,Dr. V. Menon,45,740.0,Completed,Card,4
+VIS0507,PAT0192,Kavya Patel,42,Male,2025-07-13,Hyderabad,Optometry,Dr. M. Sharma,20,250.0,Completed,Card,4
+VIS0508,PAT0274,Nisha Kumar,59,Female,2025-04-01,Kurnool,Cataract,Dr. P. Kumar,33,700.0,Completed,Insurance,5
+VIS0509,PAT0135,Saanvi Joshi,57,Female,2025-04-09,Kurnool,Cornea,Dr. P. Kumar,27,710.0,Completed,Cash,3
+VIS0510,PAT0105,Meera Das,15,Male,2025-03-28,Hyderabad,Retina,Dr. M. Sharma,32,1320.0,Completed,Card,4
+VIS0511,PAT0179,Vihaan Das,15,Female,2025-12-30,Kurnool,Cornea,Dr. P. Kumar,24,760.0,Completed,UPI,5
+VIS0512,PAT0095,Saanvi Joshi,28,Male,2025-09-30,Kurnool,Glaucoma,Dr. N. Iyer,31,800.0,Cancelled,UPI,
+VIS0513,PAT0513,Diya Patel,22,Male,2025-11-03,Kurnool,Retina,Dr. V. Menon,52,960.0,Completed,UPI,3
+VIS0514,PAT0419,Aditya Joshi,56,Female,2025-10-26,Hyderabad,Oculoplasty,Dr. K. Das,30,1110.0,Completed,UPI,4
+VIS0515,PAT0274,Diya Gupta,49,Male,2025-12-17,Hyderabad,Cataract,Dr. S. Reddy,29,760.0,Completed,UPI,4
+VIS0516,PAT0383,Sai Naidu,63,Female,2025-02-08,Hyderabad,General Ophthalmology,Dr. M. Sharma,13,450.0,Completed,Cash,3
+VIS0517,PAT0423,Rohan Kumar,50,Male,2025-11-18,Kurnool,Cornea,Dr. N. Iyer,33,860.0,No-show,UPI,
+VIS0518,PAT0129,Arjun Rao,46,Male,2025-01-25,Kurnool,Optometry,Dr. K. Das,30,400.0,Completed,Card,2
+VIS0519,PAT0208,Vihaan Iyer,65,Female,2025-06-23,Hyderabad,General Ophthalmology,Dr. V. Menon,38,490.0,Completed,UPI,4
+VIS0520,PAT0618,Vihaan Rao,51,Female,2025-08-05,Hyderabad,Retina,Dr. M. Sharma,37,1000.0,Completed,Cash,3
+VIS0521,PAT0009,Priya Rao,43,Female,2025-05-11,Hyderabad,Optometry,Dr. P. Kumar,22,330.0,Completed,UPI,4
+VIS0522,PAT0670,Vihaan Naidu,70,Female,2025-02-23,Kurnool,Cornea,Dr. K. Das,24,1120.0,Completed,UPI,3
+VIS0523,PAT0676,Sai Gupta,44,Female,2025-03-12,Kurnool,Oculoplasty,Dr. S. Reddy,37,760.0,Completed,Card,3
+VIS0524,PAT0178,Aarav Kumar,36,Other,2025-10-29,Kurnool,Retina,Dr. K. Das,38,960.0,Completed,Insurance,3
+VIS0525,PAT0225,Priya Gupta,26,Female,2025-04-27,Hyderabad,Cornea,Dr. R. Gupta,27,820.0,Completed,UPI,3
+VIS0526,PAT0145,Rohan Joshi,55,Male,2025-04-24,Hyderabad,Cataract,Dr. K. Das,29,840.0,Completed,Card,4
+VIS0527,PAT0393,Sai Gupta,66,Female,2025-12-04,Bengaluru,Optometry,Dr. M. Sharma,21,290.0,Completed,Cash,4
+VIS0528,PAT0150,Priya Menon,41,Other,2025-02-22,Hyderabad,Cataract,Dr. V. Menon,25,720.0,Cancelled,Insurance,
+VIS0529,PAT0554,Vihaan Gupta,67,Female,2025-12-01,Hyderabad,Cornea,Dr. N. Iyer,24,1030.0,Completed,UPI,4
+VIS0530,PAT0272,Kavya Kumar,5,Female,2025-12-03,Hyderabad,Cataract,Dr. N. Iyer,45,710.0,Completed,UPI,4
+VIS0531,PAT0678,Aarav Patel,41,Male,2025-08-07,Kurnool,Glaucoma,Dr. V. Menon,57,730.0,Cancelled,UPI,
+VIS0532,PAT0598,Arjun Joshi,41,Female,2025-03-02,Hyderabad,Cornea,Dr. S. Reddy,14,980.0,Completed,Cash,3
+VIS0533,PAT0281,Meera Naidu,28,Male,2025-02-26,Kurnool,Retina,Dr. V. Menon,22,1100.0,Completed,Card,4
+VIS0534,PAT0418,Kavya Menon,87,Female,2025-04-14,Hyderabad,Optometry,Dr. K. Das,6,260.0,Completed,UPI,3
+VIS0535,PAT0018,Priya Joshi,41,Male,2025-07-30,Kurnool,Retina,Dr. N. Iyer,34,880.0,No-show,UPI,
+VIS0536,PAT0048,Priya Kumar,34,Male,2025-02-26,Bengaluru,Glaucoma,Dr. A. Rao,39,720.0,Completed,UPI,3
+VIS0537,PAT0355,Priya Sharma,42,Male,2025-06-16,Bengaluru,Cataract,Dr. V. Menon,34,800.0,Completed,Insurance,2
+VIS0538,PAT0332,Ishita Naidu,4,Female,2025-02-12,Kurnool,Cataract,Dr. S. Reddy,30,930.0,Completed,Card,5
+VIS0539,PAT0279,Ishita Rao,28,Female,2025-07-17,Hyderabad,Retina,Dr. R. Gupta,40,870.0,Completed,Insurance,3
+VIS0540,PAT0064,Kavya Das,61,Female,2025-01-08,Bengaluru,General Ophthalmology,Dr. V. Menon,15,500.0,Completed,Insurance,3
+VIS0541,PAT0588,Aditya Menon,30,Female,2025-09-16,Kurnool,General Ophthalmology,Dr. P. Kumar,20,460.0,Completed,Insurance,5
+VIS0542,PAT0285,Aditya Naidu,26,Female,2025-01-21,Bengaluru,Cornea,Dr. M. Sharma,26,870.0,No-show,UPI,
+VIS0543,PAT0330,Rahul Sharma,67,Male,2025-03-13,Hyderabad,Cornea,Dr. A. Rao,10,1030.0,Completed,Cash,5
+VIS0544,PAT0283,Nisha Gupta,67,Male,2025-03-05,Bengaluru,Cornea,Dr. M. Sharma,14,790.0,Completed,UPI,4
+VIS0545,PAT0349,Vihaan Reddy,52,Male,2025-10-31,Bengaluru,General Ophthalmology,Dr. A. Rao,11,400.0,Completed,UPI,4
+VIS0546,PAT0454,Sai Verma,33,Female,2025-01-20,Kurnool,Cataract,Dr. R. Gupta,36,830.0,No-show,Card,
+VIS0547,PAT0535,Kavya Reddy,37,Female,2025-06-06,Hyderabad,General Ophthalmology,Dr. K. Das,24,440.0,Completed,Cash,4
+VIS0548,PAT0385,Sai Verma,27,Male,2025-08-04,Hyderabad,Pediatric Ophthalmology,Dr. S. Reddy,30,590.0,Completed,Cash,4
+VIS0549,PAT0117,Rahul Iyer,23,Female,2025-07-08,Kurnool,Optometry,Dr. V. Menon,2,260.0,No-show,Card,
+VIS0550,PAT0613,Kiran Iyer,22,Female,2025-09-06,Kurnool,Cataract,Dr. A. Rao,13,630.0,Completed,Cash,4
+VIS0551,PAT0200,Aarav Das,30,Female,2025-10-21,Bengaluru,Cornea,Dr. N. Iyer,33,780.0,Cancelled,Cash,
+VIS0552,PAT0012,Diya Kumar,22,Male,2025-05-24,Kurnool,General Ophthalmology,Dr. A. Rao,2,470.0,Completed,Cash,4
+VIS0553,PAT0028,Aarav Iyer,12,Other,2025-10-30,Hyderabad,Cataract,Dr. A. Rao,40,920.0,Completed,Card,3
+VIS0554,PAT0542,Aarav Verma,46,Female,2025-04-27,Bengaluru,General Ophthalmology,Dr. S. Reddy,4,530.0,Cancelled,Cash,
+VIS0555,PAT0271,Sai Menon,46,Male,2025-12-26,Kurnool,Cataract,Dr. P. Kumar,36,1160.0,Completed,Cash,4
+VIS0556,PAT0016,Arjun Reddy,74,Female,2025-07-04,Hyderabad,Cornea,Dr. K. Das,17,950.0,Completed,UPI,4
+VIS0557,PAT0569,Kiran Gupta,29,Female,2025-09-26,Bengaluru,Optometry,Dr. R. Gupta,26,360.0,Completed,Card,4
+VIS0558,PAT0214,Aarav Verma,48,Male,2025-11-16,Hyderabad,General Ophthalmology,Dr. V. Menon,54,500.0,Completed,UPI,4
+VIS0559,PAT0685,Meera Menon,48,Female,2025-10-17,Kurnool,Glaucoma,Dr. K. Das,7,940.0,Completed,Cash,3
+VIS0560,PAT0616,Ananya Iyer,37,Male,2025-11-07,Kurnool,Cornea,Dr. N. Iyer,33,1090.0,Completed,Insurance,5
+VIS0561,PAT0034,Meera Rao,56,Female,2025-07-15,Bengaluru,Oculoplasty,Dr. P. Kumar,14,1140.0,Completed,Insurance,4
+VIS0562,PAT0484,Priya Joshi,57,Female,2025-01-16,Kurnool,Glaucoma,Dr. P. Kumar,34,830.0,Completed,UPI,4
+VIS0563,PAT0423,Kiran Patel,48,Male,2025-06-29,Hyderabad,Cataract,Dr. R. Gupta,26,870.0,Completed,UPI,4
+VIS0564,PAT0121,Aditya Patel,37,Female,2025-03-08,Kurnool,Glaucoma,Dr. N. Iyer,31,750.0,Cancelled,UPI,
+VIS0565,PAT0241,Ishita Menon,35,Male,2025-11-21,Hyderabad,Cataract,Dr. N. Iyer,19,850.0,Completed,Card,4
+VIS0566,PAT0344,Saanvi Sharma,16,Female,2025-03-28,Bengaluru,Oculoplasty,Dr. A. Rao,40,1090.0,Completed,UPI,4
+VIS0567,PAT0103,Rohan Verma,27,Male,2025-03-25,Hyderabad,Cataract,Dr. M. Sharma,14,800.0,Completed,Insurance,5
+VIS0568,PAT0506,Kiran Rao,30,Female,2025-04-02,Bengaluru,Cornea,Dr. K. Das,38,830.0,Completed,Card,3
+VIS0569,PAT0195,Nisha Gupta,21,Female,2025-08-23,Kurnool,General Ophthalmology,Dr. M. Sharma,18,290.0,Completed,UPI,3
+VIS0570,PAT0657,Arjun Joshi,50,Male,2025-07-28,Hyderabad,Cataract,Dr. N. Iyer,14,1130.0,Completed,Cash,3
+VIS0571,PAT0562,Kavya Joshi,65,Female,2025-12-13,Bengaluru,Optometry,Dr. V. Menon,32,290.0,Completed,Insurance,5
+VIS0572,PAT0445,Rohan Joshi,25,Female,2025-06-01,Hyderabad,Glaucoma,Dr. A. Rao,29,800.0,No-show,Card,
+VIS0573,PAT0084,Rahul Verma,47,Other,2025-04-14,Kurnool,Retina,Dr. R. Gupta,54,1340.0,Cancelled,Card,
+VIS0574,PAT0018,Kiran Sharma,22,Male,2025-01-18,Bengaluru,Optometry,Dr. V. Menon,28,310.0,Completed,Cash,3
+VIS0575,PAT0103,Diya Joshi,36,Male,2025-01-03,Hyderabad,Optometry,Dr. M. Sharma,8,360.0,Cancelled,Card,
+VIS0576,PAT0350,Kiran Joshi,29,Male,2025-05-17,Hyderabad,Cataract,Dr. V. Menon,27,730.0,Cancelled,Card,
+VIS0577,PAT0547,Kiran Das,53,Male,2025-12-04,Bengaluru,Glaucoma,Dr. A. Rao,31,1020.0,Completed,Insurance,3
+VIS0578,PAT0108,Ananya Patel,29,Male,2025-07-11,Kurnool,Retina,Dr. P. Kumar,50,1280.0,Completed,UPI,4
+VIS0579,PAT0496,Kiran Reddy,61,Male,2025-11-23,Kurnool,Glaucoma,Dr. A. Rao,34,770.0,Completed,UPI,4
+VIS0580,PAT0034,Vihaan Naidu,37,Female,2025-02-07,Kurnool,Cataract,Dr. K. Das,30,1090.0,Completed,UPI,4
+VIS0581,PAT0186,Diya Gupta,30,Female,2025-02-04,Hyderabad,Cataract,Dr. V. Menon,26,740.0,Completed,Card,4
+VIS0582,PAT0419,Meera Patel,18,Male,2025-11-01,Kurnool,Optometry,Dr. N. Iyer,15,290.0,Completed,Insurance,4
+VIS0583,PAT0580,Ananya Patel,47,Male,2025-02-08,Hyderabad,Optometry,Dr. K. Das,29,360.0,Completed,UPI,5
+VIS0584,PAT0544,Kiran Das,59,Female,2025-01-19,Kurnool,Optometry,Dr. S. Reddy,16,220.0,Cancelled,UPI,
+VIS0585,PAT0373,Arjun Rao,47,Female,2025-05-28,Hyderabad,Oculoplasty,Dr. R. Gupta,28,1080.0,Completed,Cash,5
+VIS0586,PAT0026,Sai Joshi,85,Female,2025-12-04,Kurnool,Cornea,Dr. S. Reddy,20,920.0,Completed,Card,4
+VIS0587,PAT0206,Sai Sharma,69,Male,2025-09-09,Hyderabad,Pediatric Ophthalmology,Dr. N. Iyer,18,780.0,Completed,Insurance,4
+VIS0588,PAT0549,Saanvi Reddy,36,Male,2025-02-06,Kurnool,Pediatric Ophthalmology,Dr. K. Das,10,460.0,Completed,Cash,4
+VIS0589,PAT0057,Sai Rao,36,Female,2025-11-02,Hyderabad,Retina,Dr. V. Menon,27,1370.0,Completed,UPI,3
+VIS0590,PAT0495,Meera Verma,51,Male,2025-11-04,Hyderabad,Retina,Dr. R. Gupta,50,1010.0,No-show,Insurance,
+VIS0591,PAT0493,Priya Verma,26,Male,2025-10-20,Hyderabad,Cataract,Dr. N. Iyer,26,840.0,Cancelled,UPI,
+VIS0592,PAT0527,Meera Reddy,64,Male,2025-11-26,Bengaluru,Glaucoma,Dr. N. Iyer,37,610.0,No-show,UPI,
+VIS0593,PAT0153,Aarav Reddy,49,Female,2025-03-29,Hyderabad,Cataract,Dr. M. Sharma,3,750.0,Cancelled,UPI,
+VIS0594,PAT0172,Aarav Iyer,47,Male,2025-12-24,Kurnool,Cataract,Dr. N. Iyer,34,950.0,No-show,UPI,
+VIS0595,PAT0139,Aarav Kumar,55,Male,2025-04-28,Bengaluru,Glaucoma,Dr. K. Das,28,620.0,Completed,Cash,4
+VIS0596,PAT0276,Rohan Gupta,75,Male,2025-10-20,Kurnool,Cataract,Dr. K. Das,23,1000.0,Completed,Card,4
+VIS0597,PAT0367,Aditya Rao,45,Female,2025-07-31,Kurnool,General Ophthalmology,Dr. N. Iyer,24,410.0,Completed,UPI,4
+VIS0598,PAT0084,Sai Das,40,Male,2025-10-12,Hyderabad,Pediatric Ophthalmology,Dr. M. Sharma,19,490.0,Completed,Card,4
+VIS0599,PAT0398,Ishita Patel,71,Male,2025-08-18,Kurnool,Optometry,Dr. S. Reddy,2,280.0,Completed,Card,4
+VIS0600,PAT0168,Nisha Iyer,60,Female,2025-08-23,Kurnool,General Ophthalmology,Dr. A. Rao,31,470.0,Completed,Cash,3
+VIS0601,PAT0394,Diya Iyer,36,Female,2025-08-13,Hyderabad,General Ophthalmology,Dr. M. Sharma,24,430.0,No-show,Cash,
+VIS0602,PAT0212,Ananya Reddy,42,Male,2025-10-12,Kurnool,Cataract,Dr. M. Sharma,25,900.0,Completed,Cash,3
+VIS0603,PAT0669,Ishita Kumar,46,Male,2025-09-27,Bengaluru,Pediatric Ophthalmology,Dr. N. Iyer,14,660.0,No-show,Cash,
+VIS0604,PAT0224,Ishita Rao,49,Female,2025-02-19,Bengaluru,Optometry,Dr. R. Gupta,2,350.0,Completed,Card,4
+VIS0605,PAT0610,Saanvi Reddy,16,Female,2025-10-29,Hyderabad,General Ophthalmology,Dr. K. Das,24,430.0,Completed,Cash,5
+VIS0606,PAT0123,Diya Joshi,13,Female,2025-07-15,Hyderabad,Pediatric Ophthalmology,Dr. V. Menon,40,510.0,Completed,Card,3
+VIS0607,PAT0060,Aarav Sharma,25,Male,2025-04-28,Hyderabad,General Ophthalmology,Dr. N. Iyer,24,460.0,Completed,Cash,4
+VIS0608,PAT0133,Kiran Sharma,24,Male,2025-07-07,Bengaluru,Cataract,Dr. R. Gupta,14,960.0,Completed,Cash,4
+VIS0609,PAT0294,Ishita Reddy,30,Female,2025-12-19,Kurnool,Oculoplasty,Dr. R. Gupta,34,780.0,Completed,Cash,4
+VIS0610,PAT0632,Rohan Menon,54,Female,2025-11-10,Kurnool,General Ophthalmology,Dr. S. Reddy,21,390.0,No-show,UPI,
+VIS0611,PAT0124,Saanvi Joshi,39,Female,2025-11-01,Hyderabad,General Ophthalmology,Dr. K. Das,31,400.0,Completed,Card,5
+VIS0612,PAT0549,Priya Menon,46,Male,2025-06-18,Hyderabad,Retina,Dr. N. Iyer,41,1070.0,Completed,Card,3
+VIS0613,PAT0488,Rohan Naidu,19,Male,2025-10-14,Kurnool,Glaucoma,Dr. R. Gupta,2,660.0,Completed,Cash,4
+VIS0614,PAT0242,Saanvi Menon,33,Male,2025-05-21,Hyderabad,Optometry,Dr. N. Iyer,21,330.0,Completed,Card,3
+VIS0615,PAT0236,Kiran Patel,53,Female,2025-09-08,Kurnool,Oculoplasty,Dr. A. Rao,22,760.0,Completed,Card,4
+VIS0616,PAT0664,Ananya Verma,53,Female,2025-08-22,Bengaluru,General Ophthalmology,Dr. S. Reddy,8,340.0,Completed,UPI,4
+VIS0617,PAT0501,Rohan Menon,28,Female,2025-04-02,Kurnool,General Ophthalmology,Dr. S. Reddy,20,430.0,Completed,Cash,4
+VIS0618,PAT0168,Aditya Rao,45,Male,2025-04-08,Kurnool,Pediatric Ophthalmology,Dr. S. Reddy,28,580.0,Completed,Cash,3
+VIS0619,PAT0639,Aditya Iyer,84,Male,2025-01-23,Kurnool,Cataract,Dr. A. Rao,12,700.0,Completed,Cash,4
+VIS0620,PAT0285,Diya Sharma,42,Male,2025-02-21,Kurnool,Optometry,Dr. V. Menon,23,270.0,Completed,Insurance,3
+VIS0621,PAT0056,Aditya Reddy,29,Female,2025-06-08,Kurnool,Cornea,Dr. M. Sharma,34,800.0,Completed,UPI,4
+VIS0622,PAT0570,Saanvi Verma,39,Male,2025-06-24,Kurnool,General Ophthalmology,Dr. K. Das,22,420.0,Completed,UPI,3
+VIS0623,PAT0609,Ananya Rao,44,Female,2025-03-02,Kurnool,Optometry,Dr. R. Gupta,7,310.0,Completed,Card,4
+VIS0624,PAT0311,Aarav Gupta,39,Male,2025-06-02,Kurnool,General Ophthalmology,Dr. K. Das,12,410.0,Completed,UPI,5
+VIS0625,PAT0493,Nisha Joshi,41,Male,2025-08-09,Hyderabad,Retina,Dr. M. Sharma,45,1340.0,Completed,Card,4
+VIS0626,PAT0165,Aarav Iyer,15,Male,2025-03-26,Hyderabad,Glaucoma,Dr. P. Kumar,15,800.0,Completed,Cash,5
+VIS0627,PAT0596,Aarav Patel,24,Male,2025-05-04,Kurnool,Retina,Dr. V. Menon,46,970.0,Completed,UPI,4
+VIS0628,PAT0258,Arjun Naidu,39,Female,2025-05-15,Kurnool,Cornea,Dr. N. Iyer,24,860.0,Completed,Cash,3
+VIS0629,PAT0188,Sai Menon,39,Male,2025-07-04,Kurnool,Cornea,Dr. V. Menon,25,870.0,Completed,UPI,5
+VIS0630,PAT0351,Ananya Kumar,31,Female,2025-05-14,Kurnool,Oculoplasty,Dr. A. Rao,15,1180.0,No-show,UPI,
+VIS0631,PAT0188,Arjun Sharma,39,Male,2025-09-26,Kurnool,Oculoplasty,Dr. S. Reddy,31,910.0,Completed,Card,4
+VIS0632,PAT0435,Ishita Naidu,43,Female,2025-04-30,Bengaluru,Retina,Dr. S. Reddy,41,1230.0,Cancelled,Card,
+VIS0633,PAT0524,Priya Joshi,59,Female,2025-06-08,Bengaluru,General Ophthalmology,Dr. K. Das,9,450.0,Completed,Card,4
+VIS0634,PAT0284,Priya Sharma,40,Female,2025-05-19,Bengaluru,Cornea,Dr. N. Iyer,31,1040.0,Completed,Cash,4
+VIS0635,PAT0549,Vihaan Patel,50,Female,2025-03-08,Hyderabad,Oculoplasty,Dr. P. Kumar,33,1190.0,Completed,Insurance,4
+VIS0636,PAT0302,Rahul Joshi,32,Male,2025-09-08,Hyderabad,Cataract,Dr. P. Kumar,22,930.0,Completed,Cash,5
+VIS0637,PAT0680,Rohan Kumar,53,Female,2025-03-27,Kurnool,Retina,Dr. N. Iyer,44,1060.0,Cancelled,Card,
+VIS0638,PAT0185,Aarav Rao,49,Female,2025-04-19,Bengaluru,Retina,Dr. R. Gupta,13,1180.0,Completed,Card,4
+VIS0639,PAT0494,Aditya Naidu,58,Other,2025-10-17,Bengaluru,General Ophthalmology,Dr. R. Gupta,25,440.0,Completed,UPI,4
+VIS0640,PAT0375,Aditya Rao,56,Male,2025-12-13,Bengaluru,Cornea,Dr. M. Sharma,42,1060.0,Completed,UPI,4
+VIS0641,PAT0661,Rohan Kumar,53,Female,2025-09-02,Bengaluru,Cataract,Dr. K. Das,42,910.0,Completed,Card,4
+VIS0642,PAT0154,Ishita Naidu,40,Female,2025-12-01,Hyderabad,Pediatric Ophthalmology,Dr. A. Rao,28,560.0,Completed,Card,4
+VIS0643,PAT0138,Arjun Naidu,47,Male,2025-11-08,Bengaluru,Optometry,Dr. R. Gupta,13,280.0,No-show,Cash,
+VIS0644,PAT0608,Arjun Das,62,Male,2025-06-25,Bengaluru,Pediatric Ophthalmology,Dr. A. Rao,18,490.0,Completed,Card,3
+VIS0645,PAT0631,Meera Patel,30,Female,2025-10-09,Kurnool,Retina,Dr. P. Kumar,32,1190.0,Cancelled,Cash,
+VIS0646,PAT0524,Vihaan Das,30,Male,2025-04-30,Bengaluru,Cataract,Dr. K. Das,33,790.0,Completed,UPI,3
+VIS0647,PAT0333,Kavya Naidu,45,Female,2025-06-18,Kurnool,Cornea,Dr. R. Gupta,18,990.0,Completed,Card,4
+VIS0648,PAT0288,Priya Menon,50,Female,2025-07-15,Bengaluru,Pediatric Ophthalmology,Dr. S. Reddy,32,480.0,Completed,Card,5
+VIS0649,PAT0467,Aarav Menon,26,Male,2025-12-17,Bengaluru,Retina,Dr. K. Das,56,1120.0,Cancelled,UPI,
+VIS0650,PAT0524,Diya Naidu,41,Male,2025-11-06,Kurnool,Optometry,Dr. S. Reddy,15,350.0,Completed,UPI,4
+VIS0651,PAT0194,Kavya Verma,40,Male,2025-06-28,Hyderabad,General Ophthalmology,Dr. A. Rao,9,300.0,Completed,UPI,5
+VIS0652,PAT0005,Rohan Verma,1,Female,2025-08-27,Kurnool,Optometry,Dr. M. Sharma,3,390.0,Completed,UPI,3
+VIS0653,PAT0052,Saanvi Reddy,38,Female,2025-03-15,Bengaluru,General Ophthalmology,Dr. N. Iyer,30,420.0,Completed,UPI,3
+VIS0654,PAT0242,Diya Joshi,39,Female,2025-10-21,Bengaluru,General Ophthalmology,Dr. P. Kumar,21,460.0,Completed,UPI,4
+VIS0655,PAT0478,Sai Verma,39,Female,2025-07-21,Hyderabad,Retina,Dr. R. Gupta,44,1190.0,Completed,Card,2
+VIS0656,PAT0309,Rohan Sharma,69,Female,2025-07-14,Bengaluru,General Ophthalmology,Dr. N. Iyer,17,500.0,Completed,UPI,3
+VIS0657,PAT0433,Rahul Rao,19,Male,2025-10-07,Kurnool,General Ophthalmology,Dr. M. Sharma,30,470.0,Completed,UPI,4
+VIS0658,PAT0329,Sai Naidu,26,Male,2025-08-20,Kurnool,General Ophthalmology,Dr. M. Sharma,20,520.0,Completed,UPI,5
+VIS0659,PAT0177,Aditya Iyer,1,Male,2025-01-27,Hyderabad,Retina,Dr. M. Sharma,28,1190.0,No-show,Cash,
+VIS0660,PAT0525,Kavya Gupta,33,Female,2025-04-16,Kurnool,Pediatric Ophthalmology,Dr. A. Rao,20,760.0,Completed,UPI,5
+VIS0661,PAT0507,Aarav Das,34,Female,2025-03-06,Hyderabad,General Ophthalmology,Dr. N. Iyer,10,490.0,No-show,UPI,
+VIS0662,PAT0674,Nisha Rao,32,Male,2025-09-26,Kurnool,Cornea,Dr. V. Menon,46,1100.0,No-show,UPI,
+VIS0663,PAT0578,Priya Kumar,63,Female,2025-01-13,Hyderabad,Pediatric Ophthalmology,Dr. M. Sharma,23,680.0,Completed,UPI,4
+VIS0664,PAT0266,Kiran Verma,58,Male,2025-03-15,Hyderabad,General Ophthalmology,Dr. M. Sharma,28,330.0,Completed,UPI,4
+VIS0665,PAT0494,Meera Rao,43,Female,2025-08-07,Bengaluru,General Ophthalmology,Dr. R. Gupta,17,630.0,Completed,Insurance,4
+VIS0666,PAT0246,Aarav Gupta,35,Male,2025-09-11,Kurnool,Optometry,Dr. N. Iyer,5,270.0,Completed,UPI,5
+VIS0667,PAT0611,Sai Sharma,61,Male,2025-07-03,Bengaluru,Pediatric Ophthalmology,Dr. P. Kumar,22,730.0,Completed,UPI,5
+VIS0668,PAT0428,Sai Iyer,42,Male,2025-11-11,Hyderabad,Retina,Dr. A. Rao,46,1100.0,Completed,Cash,4
+VIS0669,PAT0585,Aarav Das,26,Male,2025-12-02,Kurnool,Pediatric Ophthalmology,Dr. V. Menon,19,700.0,Completed,Cash,4
+VIS0670,PAT0197,Kavya Sharma,9,Male,2025-02-18,Hyderabad,General Ophthalmology,Dr. K. Das,13,400.0,Completed,UPI,3
+VIS0671,PAT0011,Kavya Naidu,34,Female,2025-12-14,Hyderabad,Cataract,Dr. K. Das,30,980.0,No-show,Card,
+VIS0672,PAT0099,Rohan Gupta,56,Male,2025-08-13,Kurnool,Cornea,Dr. P. Kumar,31,820.0,Completed,Cash,4
+VIS0673,PAT0372,Rohan Reddy,85,Male,2025-08-21,Hyderabad,Cataract,Dr. S. Reddy,44,1110.0,Completed,UPI,4
+VIS0674,PAT0674,Nisha Patel,43,Male,2025-02-04,Kurnool,Pediatric Ophthalmology,Dr. M. Sharma,28,640.0,No-show,UPI,
+VIS0675,PAT0439,Saanvi Gupta,27,Female,2025-08-15,Hyderabad,Retina,Dr. V. Menon,41,1250.0,Completed,UPI,4
+VIS0676,PAT0567,Ananya Gupta,19,Female,2025-09-22,Hyderabad,Pediatric Ophthalmology,Dr. P. Kumar,31,410.0,Completed,Insurance,3
+VIS0677,PAT0329,Ishita Das,52,Male,2025-07-31,Hyderabad,Retina,Dr. N. Iyer,23,1090.0,Cancelled,UPI,
+VIS0678,PAT0671,Meera Menon,8,Male,2025-01-31,Bengaluru,Cataract,Dr. R. Gupta,18,960.0,Completed,Cash,5
+VIS0679,PAT0659,Diya Reddy,52,Female,2025-07-10,Kurnool,General Ophthalmology,Dr. S. Reddy,11,470.0,Completed,UPI,5
+VIS0680,PAT0153,Rohan Reddy,58,Female,2025-12-08,Bengaluru,General Ophthalmology,Dr. S. Reddy,9,510.0,Completed,Cash,5
+VIS0681,PAT0604,Diya Naidu,50,Female,2025-09-22,Bengaluru,Pediatric Ophthalmology,Dr. S. Reddy,32,570.0,No-show,Cash,
+VIS0682,PAT0013,Nisha Gupta,38,Female,2025-02-20,Bengaluru,General Ophthalmology,Dr. R. Gupta,25,450.0,Completed,UPI,4
+VIS0683,PAT0415,Ishita Menon,53,Female,2025-12-17,Bengaluru,General Ophthalmology,Dr. N. Iyer,23,530.0,Completed,UPI,5
+VIS0684,PAT0307,Rohan Kumar,45,Female,2025-12-16,Kurnool,General Ophthalmology,Dr. R. Gupta,2,300.0,Completed,Cash,4
+VIS0685,PAT0211,Rahul Das,27,Female,2025-03-03,Hyderabad,General Ophthalmology,Dr. R. Gupta,43,490.0,Completed,Card,3
+VIS0686,PAT0654,Ishita Naidu,77,Male,2025-10-20,Kurnool,Pediatric Ophthalmology,Dr. M. Sharma,15,570.0,Completed,UPI,5
+VIS0687,PAT0464,Priya Kumar,35,Female,2025-05-29,Bengaluru,Cataract,Dr. A. Rao,49,780.0,Completed,Cash,4
+VIS0688,PAT0097,Ananya Das,57,Female,2025-08-05,Hyderabad,Oculoplasty,Dr. P. Kumar,18,1050.0,Cancelled,Insurance,
+VIS0689,PAT0098,Aarav Naidu,1,Female,2025-06-12,Kurnool,General Ophthalmology,Dr. N. Iyer,14,530.0,Completed,UPI,4
+VIS0690,PAT0083,Meera Kumar,66,Female,2025-10-13,Bengaluru,Cornea,Dr. M. Sharma,4,980.0,Completed,Insurance,4
+VIS0691,PAT0213,Saanvi Patel,70,Male,2025-12-30,Kurnool,Retina,Dr. A. Rao,39,1080.0,Completed,Insurance,4
+VIS0692,PAT0049,Rohan Kumar,43,Male,2025-10-18,Hyderabad,Cataract,Dr. R. Gupta,17,1020.0,Completed,UPI,3
+VIS0693,PAT0185,Aditya Verma,53,Female,2025-12-06,Hyderabad,Optometry,Dr. P. Kumar,5,340.0,Completed,UPI,4
+VIS0694,PAT0536,Saanvi Kumar,53,Female,2025-12-12,Kurnool,Oculoplasty,Dr. N. Iyer,18,990.0,Completed,Card,4
+VIS0695,PAT0612,Nisha Reddy,30,Female,2025-02-02,Hyderabad,Optometry,Dr. R. Gupta,24,270.0,Completed,UPI,5
+VIS0696,PAT0551,Arjun Rao,52,Female,2025-04-03,Bengaluru,General Ophthalmology,Dr. N. Iyer,29,410.0,Completed,Cash,4
+VIS0697,PAT0348,Nisha Rao,27,Female,2025-09-21,Kurnool,General Ophthalmology,Dr. K. Das,40,510.0,Completed,UPI,4
+VIS0698,PAT0487,Kiran Kumar,30,Female,2025-08-04,Hyderabad,Cornea,Dr. A. Rao,19,840.0,Completed,UPI,4
+VIS0699,PAT0661,Diya Naidu,63,Female,2025-01-19,Kurnool,Cataract,Dr. K. Das,30,760.0,Completed,Insurance,5
+VIS0700,PAT0038,Rahul Rao,61,Male,2025-02-04,Hyderabad,Cornea,Dr. V. Menon,13,640.0,No-show,Card,
+VIS0701,PAT0634,Vihaan Sharma,29,Female,2025-07-09,Kurnool,Glaucoma,Dr. R. Gupta,27,840.0,Completed,Insurance,4
+VIS0702,PAT0507,Kavya Rao,28,Female,2025-08-13,Bengaluru,Glaucoma,Dr. A. Rao,25,690.0,No-show,Card,
+VIS0703,PAT0271,Vihaan Patel,30,Male,2025-03-03,Bengaluru,Pediatric Ophthalmology,Dr. S. Reddy,29,630.0,No-show,Card,
+VIS0704,PAT0315,Ishita Rao,56,Female,2025-03-04,Kurnool,Cornea,Dr. A. Rao,36,1010.0,Completed,UPI,3
+VIS0705,PAT0307,Kiran Naidu,23,Female,2025-02-17,Kurnool,General Ophthalmology,Dr. R. Gupta,32,360.0,No-show,Insurance,
+VIS0706,PAT0111,Vihaan Gupta,49,Female,2025-07-26,Hyderabad,General Ophthalmology,Dr. P. Kumar,14,450.0,Completed,Insurance,4
+VIS0707,PAT0162,Aarav Gupta,56,Female,2025-01-03,Hyderabad,Glaucoma,Dr. N. Iyer,40,730.0,Completed,Card,4
+VIS0708,PAT0207,Arjun Kumar,40,Female,2025-07-28,Hyderabad,Retina,Dr. M. Sharma,35,1160.0,Completed,Card,5
+VIS0709,PAT0005,Diya Verma,61,Male,2025-06-23,Kurnool,Cataract,Dr. K. Das,25,1070.0,Completed,UPI,5
+VIS0710,PAT0351,Kiran Gupta,36,Male,2025-06-20,Kurnool,Retina,Dr. R. Gupta,28,880.0,Completed,UPI,4
+VIS0711,PAT0334,Diya Rao,38,Female,2025-09-05,Bengaluru,Pediatric Ophthalmology,Dr. P. Kumar,18,650.0,Completed,Insurance,3
+VIS0712,PAT0231,Aarav Iyer,23,Female,2025-07-10,Hyderabad,Pediatric Ophthalmology,Dr. V. Menon,41,690.0,Completed,Cash,4
+VIS0713,PAT0124,Ishita Menon,61,Male,2025-09-23,Bengaluru,Glaucoma,Dr. P. Kumar,33,730.0,Cancelled,UPI,
+VIS0714,PAT0679,Rahul Sharma,27,Male,2025-10-06,Hyderabad,Cataract,Dr. S. Reddy,30,880.0,Completed,UPI,3
+VIS0715,PAT0475,Rohan Patel,49,Female,2025-12-02,Bengaluru,Cataract,Dr. A. Rao,25,960.0,Completed,UPI,4
+VIS0716,PAT0333,Aditya Naidu,41,Female,2025-10-19,Kurnool,Retina,Dr. P. Kumar,59,1160.0,Completed,UPI,4
+VIS0717,PAT0506,Aditya Rao,22,Female,2025-07-08,Kurnool,Cataract,Dr. N. Iyer,41,980.0,Completed,Cash,2
+VIS0718,PAT0261,Ishita Joshi,30,Male,2025-06-29,Bengaluru,Glaucoma,Dr. V. Menon,23,810.0,Completed,Cash,3
+VIS0719,PAT0151,Ishita Kumar,68,Female,2025-03-28,Bengaluru,Cornea,Dr. V. Menon,23,720.0,Completed,UPI,4
+VIS0720,PAT0472,Diya Rao,46,Female,2025-08-07,Kurnool,General Ophthalmology,Dr. N. Iyer,20,520.0,Completed,UPI,4
+VIS0721,PAT0540,Rahul Rao,23,Female,2025-02-20,Hyderabad,General Ophthalmology,Dr. M. Sharma,23,530.0,Completed,Cash,4
+VIS0722,PAT0456,Saanvi Patel,48,Female,2025-12-06,Hyderabad,General Ophthalmology,Dr. S. Reddy,15,460.0,Cancelled,Card,
+VIS0723,PAT0397,Ananya Verma,39,Female,2025-11-05,Hyderabad,Optometry,Dr. R. Gupta,20,230.0,Completed,UPI,4
+VIS0724,PAT0002,Priya Menon,95,Male,2025-02-13,Kurnool,Glaucoma,Dr. M. Sharma,45,740.0,Completed,UPI,3
+VIS0725,PAT0447,Sai Verma,47,Male,2025-10-14,Bengaluru,General Ophthalmology,Dr. V. Menon,9,460.0,Completed,UPI,5
+VIS0726,PAT0433,Priya Das,35,Female,2025-02-12,Kurnool,Optometry,Dr. K. Das,5,250.0,Cancelled,UPI,
+VIS0727,PAT0289,Priya Iyer,69,Female,2025-09-21,Hyderabad,Retina,Dr. R. Gupta,30,1040.0,Completed,Insurance,3
+VIS0728,PAT0171,Vihaan Patel,7,Male,2025-02-02,Kurnool,Retina,Dr. R. Gupta,31,870.0,Completed,Cash,4
+VIS0729,PAT0686,Meera Rao,44,Male,2025-06-28,Kurnool,Optometry,Dr. K. Das,36,330.0,Completed,UPI,4
+VIS0730,PAT0263,Nisha Verma,80,Female,2025-08-29,Hyderabad,General Ophthalmology,Dr. K. Das,32,460.0,Completed,Card,4
+VIS0731,PAT0191,Rohan Iyer,40,Female,2025-09-24,Kurnool,General Ophthalmology,Dr. S. Reddy,31,340.0,Completed,Cash,3
+VIS0732,PAT0495,Nisha Iyer,9,Male,2025-06-02,Hyderabad,Glaucoma,Dr. A. Rao,27,790.0,Completed,Card,3
+VIS0733,PAT0338,Priya Das,34,Male,2025-12-03,Kurnool,General Ophthalmology,Dr. N. Iyer,19,450.0,Completed,Insurance,5
+VIS0734,PAT0391,Arjun Menon,70,Male,2025-10-10,Bengaluru,Cornea,Dr. K. Das,11,920.0,Completed,Card,3
+VIS0735,PAT0454,Diya Kumar,49,Male,2025-03-18,Hyderabad,General Ophthalmology,Dr. K. Das,30,420.0,Completed,Insurance,5
+VIS0736,PAT0259,Priya Gupta,26,Female,2025-09-02,Bengaluru,General Ophthalmology,Dr. P. Kumar,27,400.0,Completed,UPI,5
+VIS0737,PAT0107,Kavya Gupta,29,Female,2025-09-24,Kurnool,General Ophthalmology,Dr. N. Iyer,35,400.0,No-show,UPI,
+VIS0738,PAT0118,Aarav Verma,31,Female,2025-05-02,Kurnool,Retina,Dr. V. Menon,33,1010.0,Completed,Cash,3
+VIS0739,PAT0658,Rohan Rao,49,Male,2025-09-27,Hyderabad,General Ophthalmology,Dr. A. Rao,21,450.0,Completed,Cash,3
+VIS0740,PAT0354,Saanvi Kumar,67,Male,2025-11-24,Hyderabad,General Ophthalmology,Dr. M. Sharma,24,460.0,Completed,UPI,4
+VIS0741,PAT0292,Rohan Iyer,62,Female,2025-10-26,Kurnool,Optometry,Dr. R. Gupta,25,290.0,Cancelled,UPI,
+VIS0742,PAT0224,Ananya Verma,51,Male,2025-10-06,Kurnool,Cataract,Dr. S. Reddy,13,840.0,Completed,UPI,3
+VIS0743,PAT0506,Kiran Joshi,17,Female,2025-08-20,Hyderabad,Cataract,Dr. P. Kumar,35,850.0,No-show,UPI,
+VIS0744,PAT0640,Meera Naidu,17,Female,2025-04-09,Kurnool,General Ophthalmology,Dr. M. Sharma,22,620.0,Completed,Card,4
+VIS0745,PAT0539,Rahul Kumar,52,Female,2025-10-18,Hyderabad,Cataract,Dr. K. Das,17,800.0,Completed,UPI,3
+VIS0746,PAT0375,Sai Kumar,16,Male,2025-05-13,Kurnool,Cataract,Dr. P. Kumar,7,820.0,Completed,UPI,5
+VIS0747,PAT0333,Kavya Naidu,38,Male,2025-07-14,Kurnool,Glaucoma,Dr. V. Menon,29,1120.0,Completed,UPI,4
+VIS0748,PAT0607,Kiran Kumar,48,Male,2025-04-25,Hyderabad,General Ophthalmology,Dr. S. Reddy,36,480.0,Cancelled,Card,
+VIS0749,PAT0600,Saanvi Das,20,Male,2025-04-25,Hyderabad,Optometry,Dr. P. Kumar,33,240.0,Cancelled,UPI,
+VIS0750,PAT0274,Kavya Verma,23,Male,2025-02-27,Kurnool,Optometry,Dr. N. Iyer,20,340.0,Completed,Card,5
+VIS0751,PAT0676,Meera Patel,40,Male,2025-12-17,Hyderabad,General Ophthalmology,Dr. A. Rao,42,390.0,No-show,Cash,
+VIS0752,PAT0580,Rohan Patel,52,Male,2025-02-23,Bengaluru,General Ophthalmology,Dr. V. Menon,22,510.0,Completed,UPI,5
+VIS0753,PAT0593,Aarav Rao,62,Female,2025-02-01,Hyderabad,General Ophthalmology,Dr. K. Das,32,440.0,Completed,Insurance,3
+VIS0754,PAT0040,Rahul Sharma,54,Male,2025-12-08,Hyderabad,Glaucoma,Dr. V. Menon,25,700.0,Completed,Cash,4
+VIS0755,PAT0092,Rohan Gupta,43,Male,2025-07-22,Bengaluru,General Ophthalmology,Dr. P. Kumar,17,560.0,Completed,UPI,4
+VIS0756,PAT0209,Saanvi Patel,28,Male,2025-06-09,Hyderabad,Optometry,Dr. M. Sharma,9,330.0,Cancelled,Cash,
+VIS0757,PAT0533,Rahul Reddy,22,Female,2025-09-27,Bengaluru,Pediatric Ophthalmology,Dr. R. Gupta,3,690.0,Completed,Cash,5
+VIS0758,PAT0055,Meera Reddy,32,Male,2025-05-20,Bengaluru,Pediatric Ophthalmology,Dr. A. Rao,37,640.0,Completed,UPI,4
+VIS0759,PAT0059,Kiran Reddy,50,Male,2025-02-16,Kurnool,Retina,Dr. M. Sharma,29,1030.0,Completed,Cash,4
+VIS0760,PAT0023,Kavya Naidu,48,Female,2025-09-24,Hyderabad,Oculoplasty,Dr. M. Sharma,24,1090.0,Completed,UPI,4
+VIS0761,PAT0135,Diya Naidu,2,Other,2025-03-06,Hyderabad,General Ophthalmology,Dr. M. Sharma,10,530.0,Completed,Insurance,4
+VIS0762,PAT0644,Ishita Das,27,Female,2025-07-21,Bengaluru,Cataract,Dr. M. Sharma,26,920.0,Completed,UPI,5
+VIS0763,PAT0505,Vihaan Das,65,Female,2025-12-13,Hyderabad,Cataract,Dr. K. Das,46,1140.0,Completed,Cash,4
+VIS0764,PAT0502,Ananya Reddy,44,Female,2025-12-08,Kurnool,Optometry,Dr. S. Reddy,37,340.0,Completed,Card,3
+VIS0765,PAT0205,Saanvi Das,15,Male,2025-05-12,Hyderabad,Glaucoma,Dr. R. Gupta,13,770.0,Completed,UPI,4
+VIS0766,PAT0438,Arjun Rao,87,Male,2025-10-12,Kurnool,Pediatric Ophthalmology,Dr. R. Gupta,20,620.0,Completed,Insurance,3
+VIS0767,PAT0546,Rohan Joshi,41,Female,2025-08-12,Bengaluru,General Ophthalmology,Dr. S. Reddy,12,460.0,Completed,UPI,4
+VIS0768,PAT0373,Priya Rao,49,Male,2025-06-24,Hyderabad,Oculoplasty,Dr. R. Gupta,42,810.0,Completed,Card,3
+VIS0769,PAT0600,Kavya Iyer,50,Female,2025-02-21,Hyderabad,Retina,Dr. P. Kumar,38,1090.0,No-show,Insurance,
+VIS0770,PAT0399,Saanvi Rao,35,Female,2025-05-18,Bengaluru,Retina,Dr. A. Rao,29,1140.0,Completed,Cash,5
+VIS0771,PAT0228,Arjun Menon,28,Male,2025-08-26,Hyderabad,Oculoplasty,Dr. M. Sharma,33,940.0,No-show,Card,
+VIS0772,PAT0448,Ishita Reddy,82,Male,2025-12-27,Hyderabad,Cataract,Dr. V. Menon,23,950.0,Completed,Card,4
+VIS0773,PAT0661,Ananya Joshi,61,Male,2025-01-02,Bengaluru,Cataract,Dr. V. Menon,44,900.0,Completed,Card,5
+VIS0774,PAT0579,Nisha Rao,58,Male,2025-09-19,Bengaluru,Glaucoma,Dr. K. Das,35,840.0,Completed,Cash,4
+VIS0775,PAT0349,Sai Menon,53,Other,2025-11-05,Bengaluru,General Ophthalmology,Dr. V. Menon,29,490.0,Completed,UPI,4
+VIS0776,PAT0418,Ishita Naidu,23,Female,2025-12-14,Kurnool,Cataract,Dr. P. Kumar,2,920.0,Cancelled,Cash,
+VIS0777,PAT0684,Arjun Kumar,66,Female,2025-06-04,Hyderabad,General Ophthalmology,Dr. R. Gupta,21,360.0,Completed,Insurance,3
+VIS0778,PAT0525,Priya Kumar,26,Female,2025-02-13,Kurnool,General Ophthalmology,Dr. K. Das,43,570.0,Completed,Cash,3
+VIS0779,PAT0352,Ishita Patel,47,Male,2025-04-09,Bengaluru,Optometry,Dr. S. Reddy,29,290.0,Completed,Cash,3
+VIS0780,PAT0197,Vihaan Menon,11,Male,2025-11-07,Hyderabad,Glaucoma,Dr. S. Reddy,12,740.0,Completed,Insurance,4
+VIS0781,PAT0635,Aditya Verma,3,Male,2025-11-17,Hyderabad,Cataract,Dr. P. Kumar,25,850.0,Completed,UPI,4
+VIS0782,PAT0684,Kiran Kumar,48,Female,2025-08-21,Kurnool,Cataract,Dr. A. Rao,16,830.0,Completed,UPI,4
+VIS0783,PAT0050,Arjun Patel,27,Female,2025-02-14,Kurnool,Retina,Dr. P. Kumar,52,1350.0,Completed,UPI,4
+VIS0784,PAT0023,Kavya Kumar,4,Male,2025-02-14,Hyderabad,Glaucoma,Dr. R. Gupta,32,910.0,Completed,Card,3
+VIS0785,PAT0081,Priya Reddy,52,Other,2025-06-24,Kurnool,Optometry,Dr. S. Reddy,8,320.0,Completed,UPI,4
+VIS0786,PAT0271,Kavya Naidu,82,Female,2025-08-03,Kurnool,Optometry,Dr. K. Das,16,300.0,Completed,UPI,4
+VIS0787,PAT0112,Rohan Patel,68,Female,2025-01-12,Bengaluru,Cataract,Dr. R. Gupta,2,980.0,Completed,UPI,4
+VIS0788,PAT0618,Ishita Kumar,37,Female,2025-09-08,Bengaluru,Cataract,Dr. P. Kumar,17,910.0,Completed,UPI,5
+VIS0789,PAT0640,Saanvi Verma,42,Female,2025-07-18,Kurnool,Retina,Dr. K. Das,35,1070.0,Completed,UPI,4
+VIS0790,PAT0127,Diya Gupta,59,Female,2025-01-05,Kurnool,Glaucoma,Dr. M. Sharma,38,790.0,Completed,Cash,3
+VIS0791,PAT0581,Saanvi Menon,63,Female,2025-02-04,Bengaluru,Retina,Dr. P. Kumar,16,1030.0,Completed,Card,4
+VIS0792,PAT0099,Rahul Rao,35,Male,2025-06-15,Hyderabad,Cornea,Dr. R. Gupta,22,880.0,Completed,Cash,4
+VIS0793,PAT0552,Aarav Verma,43,Female,2025-09-21,Hyderabad,Glaucoma,Dr. K. Das,40,770.0,Completed,UPI,3
+VIS0794,PAT0256,Vihaan Das,48,Female,2025-10-29,Kurnool,Cataract,Dr. M. Sharma,13,980.0,Completed,UPI,3
+VIS0795,PAT0029,Rahul Das,53,Female,2025-06-07,Kurnool,Cataract,Dr. V. Menon,30,820.0,Completed,UPI,5
+VIS0796,PAT0300,Aarav Rao,39,Male,2025-04-18,Kurnool,Cataract,Dr. R. Gupta,29,1000.0,No-show,Card,
+VIS0797,PAT0576,Aditya Verma,40,Female,2025-12-20,Hyderabad,General Ophthalmology,Dr. V. Menon,39,390.0,Completed,UPI,4
+VIS0798,PAT0654,Ishita Das,68,Female,2025-06-17,Kurnool,General Ophthalmology,Dr. V. Menon,20,410.0,Completed,Insurance,4
+VIS0799,PAT0085,Sai Menon,65,Female,2025-04-26,Kurnool,Cornea,Dr. P. Kumar,24,780.0,Completed,Card,4
+VIS0800,PAT0586,Kiran Naidu,51,Male,2025-06-11,Hyderabad,Cataract,Dr. P. Kumar,37,760.0,Completed,Card,5
+VIS0801,PAT0206,Kavya Menon,75,Male,2025-01-05,Bengaluru,General Ophthalmology,Dr. S. Reddy,9,520.0,No-show,Card,
+VIS0802,PAT0325,Rohan Gupta,35,Female,2025-04-21,Bengaluru,Glaucoma,Dr. K. Das,28,640.0,Completed,Cash,3
+VIS0803,PAT0077,Ishita Joshi,73,Female,2025-07-08,Hyderabad,Pediatric Ophthalmology,Dr. V. Menon,19,540.0,Completed,Insurance,5
+VIS0804,PAT0682,Ananya Kumar,52,Female,2025-12-02,Hyderabad,Cataract,Dr. K. Das,27,1070.0,No-show,Card,
+VIS0805,PAT0554,Ishita Kumar,95,Male,2025-09-27,Hyderabad,Pediatric Ophthalmology,Dr. N. Iyer,32,550.0,Completed,UPI,4
+VIS0806,PAT0450,Saanvi Gupta,19,Male,2025-10-13,Kurnool,Optometry,Dr. V. Menon,22,290.0,Completed,Cash,3
+VIS0807,PAT0509,Sai Das,29,Female,2025-07-18,Hyderabad,Glaucoma,Dr. S. Reddy,23,640.0,Completed,Cash,3
+VIS0808,PAT0612,Saanvi Naidu,50,Female,2025-02-10,Hyderabad,Cornea,Dr. P. Kumar,27,960.0,Completed,Card,4
+VIS0809,PAT0101,Aarav Gupta,50,Male,2025-05-23,Hyderabad,General Ophthalmology,Dr. K. Das,37,510.0,Completed,UPI,4
+VIS0810,PAT0173,Aarav Das,79,Male,2025-12-30,Bengaluru,Optometry,Dr. A. Rao,8,330.0,Completed,Card,3
+VIS0811,PAT0027,Kavya Menon,29,Female,2025-01-17,Bengaluru,Cataract,Dr. R. Gupta,29,970.0,No-show,UPI,
+VIS0812,PAT0343,Kiran Sharma,59,Female,2025-11-17,Kurnool,Optometry,Dr. S. Reddy,14,300.0,No-show,UPI,
+VIS0813,PAT0346,Nisha Verma,64,Female,2025-09-07,Hyderabad,Glaucoma,Dr. V. Menon,29,690.0,Completed,UPI,5
+VIS0814,PAT0021,Ishita Reddy,55,Male,2025-04-14,Kurnool,General Ophthalmology,Dr. N. Iyer,6,390.0,Completed,Cash,4
+VIS0815,PAT0464,Saanvi Naidu,24,Male,2025-10-11,Hyderabad,General Ophthalmology,Dr. V. Menon,36,540.0,Completed,Cash,3
+VIS0816,PAT0007,Sai Verma,69,Male,2025-11-02,Kurnool,Cornea,Dr. V. Menon,18,950.0,Completed,Card,4
+VIS0817,PAT0556,Diya Sharma,65,Male,2025-01-16,Kurnool,Glaucoma,Dr. N. Iyer,40,670.0,Completed,UPI,3
+VIS0818,PAT0494,Kavya Sharma,53,Female,2025-02-08,Bengaluru,General Ophthalmology,Dr. V. Menon,16,450.0,Completed,Insurance,5
+VIS0819,PAT0571,Meera Sharma,46,Female,2025-08-31,Hyderabad,Cornea,Dr. P. Kumar,20,810.0,Completed,Card,4
+VIS0820,PAT0083,Rohan Das,46,Female,2025-12-31,Bengaluru,Optometry,Dr. N. Iyer,28,250.0,Completed,Card,4
+VIS0821,PAT0610,Arjun Patel,41,Male,2025-01-09,Kurnool,Retina,Dr. R. Gupta,45,1130.0,Completed,UPI,4
+VIS0822,PAT0384,Ishita Reddy,54,Male,2025-08-31,Kurnool,Retina,Dr. A. Rao,37,1030.0,Completed,Card,3
+VIS0823,PAT0605,Rahul Verma,43,Female,2025-02-19,Hyderabad,General Ophthalmology,Dr. P. Kumar,30,390.0,Completed,Insurance,3
+VIS0824,PAT0488,Meera Kumar,26,Female,2025-08-26,Kurnool,Pediatric Ophthalmology,Dr. A. Rao,21,470.0,Cancelled,Card,
+VIS0825,PAT0460,Aditya Das,22,Male,2025-08-16,Kurnool,Cataract,Dr. N. Iyer,28,690.0,Completed,Cash,3
+VIS0826,PAT0023,Kiran Naidu,28,Male,2025-02-03,Bengaluru,Optometry,Dr. V. Menon,9,280.0,Cancelled,Card,
+VIS0827,PAT0485,Priya Rao,46,Male,2025-09-06,Kurnool,Cataract,Dr. A. Rao,37,890.0,Completed,Cash,4
+VIS0828,PAT0315,Ananya Reddy,41,Female,2025-11-24,Kurnool,Glaucoma,Dr. N. Iyer,23,650.0,Cancelled,Cash,
+VIS0829,PAT0595,Vihaan Joshi,46,Male,2025-11-12,Hyderabad,Cataract,Dr. M. Sharma,43,990.0,Completed,Card,3
+VIS0830,PAT0479,Priya Naidu,52,Male,2025-01-11,Hyderabad,General Ophthalmology,Dr. V. Menon,19,450.0,Completed,Card,4
+VIS0831,PAT0053,Priya Rao,30,Male,2025-03-31,Hyderabad,Pediatric Ophthalmology,Dr. S. Reddy,24,650.0,No-show,Cash,
+VIS0832,PAT0623,Diya Menon,70,Male,2025-03-29,Hyderabad,Retina,Dr. S. Reddy,43,1070.0,Completed,Cash,5
+VIS0833,PAT0045,Meera Das,37,Male,2025-06-15,Bengaluru,Retina,Dr. A. Rao,35,970.0,Completed,Insurance,4
+VIS0834,PAT0210,Rahul Rao,34,Male,2025-02-22,Kurnool,Oculoplasty,Dr. M. Sharma,29,1020.0,Completed,Cash,3
+VIS0835,PAT0152,Rahul Gupta,51,Male,2025-11-08,Hyderabad,Oculoplasty,Dr. M. Sharma,32,810.0,Completed,Cash,4
+VIS0836,PAT0682,Rohan Iyer,7,Female,2025-10-11,Hyderabad,Optometry,Dr. R. Gupta,25,320.0,Completed,Card,3
+VIS0837,PAT0108,Ananya Kumar,27,Female,2025-10-23,Bengaluru,General Ophthalmology,Dr. M. Sharma,15,390.0,Completed,Card,4
+VIS0838,PAT0592,Diya Verma,61,Male,2025-03-14,Hyderabad,Glaucoma,Dr. S. Reddy,29,850.0,Cancelled,UPI,
+VIS0839,PAT0156,Ananya Sharma,9,Male,2025-01-06,Hyderabad,Optometry,Dr. K. Das,16,280.0,Completed,UPI,4
+VIS0840,PAT0456,Vihaan Sharma,63,Female,2025-11-29,Kurnool,Cataract,Dr. A. Rao,37,1040.0,Completed,UPI,4
+VIS0841,PAT0064,Aarav Sharma,71,Female,2025-04-16,Kurnool,General Ophthalmology,Dr. P. Kumar,21,370.0,Completed,UPI,4
+VIS0842,PAT0275,Priya Menon,35,Male,2025-08-28,Kurnool,Pediatric Ophthalmology,Dr. K. Das,42,540.0,Cancelled,Card,
+VIS0843,PAT0437,Rohan Gupta,48,Male,2025-11-28,Hyderabad,Retina,Dr. P. Kumar,33,1160.0,Completed,Card,4
+VIS0844,PAT0498,Saanvi Verma,63,Male,2025-01-14,Kurnool,Glaucoma,Dr. N. Iyer,28,880.0,Completed,UPI,4
+VIS0845,PAT0611,Rahul Kumar,33,Female,2025-01-02,Hyderabad,Oculoplasty,Dr. M. Sharma,30,1250.0,Completed,UPI,3
+VIS0846,PAT0572,Saanvi Menon,58,Male,2025-01-02,Kurnool,Glaucoma,Dr. R. Gupta,17,750.0,Completed,UPI,4
+VIS0847,PAT0364,Arjun Das,29,Male,2025-02-27,Bengaluru,Retina,Dr. P. Kumar,25,1400.0,Cancelled,Cash,
+VIS0848,PAT0213,Rohan Sharma,33,Female,2025-01-19,Bengaluru,Cataract,Dr. R. Gupta,23,860.0,Completed,UPI,4
+VIS0849,PAT0183,Diya Rao,27,Female,2025-10-27,Kurnool,Retina,Dr. K. Das,46,1280.0,Completed,Cash,3
+VIS0850,PAT0695,Priya Menon,49,Other,2025-08-10,Kurnool,General Ophthalmology,Dr. K. Das,22,390.0,Completed,Card,3
+VIS0851,PAT0426,Aditya Kumar,64,Female,2025-12-24,Kurnool,Pediatric Ophthalmology,Dr. S. Reddy,19,640.0,Completed,UPI,4
+VIS0852,PAT0637,Aarav Naidu,39,Male,2025-10-20,Bengaluru,Optometry,Dr. A. Rao,28,190.0,Completed,Card,5
+VIS0853,PAT0304,Diya Das,18,Male,2025-12-18,Kurnool,Cataract,Dr. K. Das,44,750.0,Completed,UPI,4
+VIS0854,PAT0340,Kavya Rao,21,Male,2025-03-29,Hyderabad,Cataract,Dr. M. Sharma,41,960.0,Completed,Card,3
+VIS0855,PAT0579,Saanvi Joshi,49,Female,2025-04-16,Hyderabad,Optometry,Dr. P. Kumar,7,240.0,Completed,Insurance,4
+VIS0856,PAT0506,Ishita Menon,77,Male,2025-11-07,Bengaluru,General Ophthalmology,Dr. R. Gupta,17,480.0,Completed,UPI,3
+VIS0857,PAT0141,Nisha Iyer,49,Female,2025-03-31,Hyderabad,Retina,Dr. P. Kumar,53,1250.0,Completed,Cash,4
+VIS0858,PAT0367,Arjun Gupta,35,Male,2025-01-21,Hyderabad,Retina,Dr. M. Sharma,37,1020.0,Completed,Card,4
+VIS0859,PAT0150,Saanvi Iyer,57,Female,2025-09-02,Bengaluru,Cornea,Dr. K. Das,23,730.0,Completed,Cash,3
+VIS0860,PAT0533,Diya Gupta,37,Male,2025-10-20,Kurnool,General Ophthalmology,Dr. R. Gupta,29,420.0,Completed,UPI,4
+VIS0861,PAT0021,Diya Reddy,35,Male,2025-12-20,Bengaluru,Cornea,Dr. R. Gupta,36,730.0,Completed,Cash,3
+VIS0862,PAT0579,Ananya Iyer,24,Female,2025-12-05,Kurnool,Cataract,Dr. K. Das,22,890.0,Completed,Insurance,5
+VIS0863,PAT0651,Ananya Patel,69,Female,2025-02-13,Hyderabad,Glaucoma,Dr. A. Rao,32,760.0,Completed,Cash,4
+VIS0864,PAT0017,Diya Iyer,1,Male,2025-10-09,Bengaluru,General Ophthalmology,Dr. A. Rao,31,430.0,Completed,UPI,4
+VIS0865,PAT0442,Rahul Iyer,57,Female,2025-11-05,Hyderabad,Retina,Dr. K. Das,23,1380.0,Completed,UPI,4
+VIS0866,PAT0056,Kiran Reddy,33,Female,2025-09-12,Hyderabad,Retina,Dr. N. Iyer,35,980.0,Completed,Card,3
+VIS0867,PAT0253,Ananya Joshi,34,Female,2025-10-27,Kurnool,General Ophthalmology,Dr. S. Reddy,11,540.0,Completed,UPI,4
+VIS0868,PAT0236,Saanvi Rao,74,Male,2025-11-02,Hyderabad,General Ophthalmology,Dr. K. Das,12,380.0,Completed,Insurance,4
+VIS0869,PAT0364,Saanvi Rao,28,Male,2025-06-12,Hyderabad,General Ophthalmology,Dr. R. Gupta,16,450.0,Completed,Card,3
+VIS0870,PAT0643,Ananya Patel,29,Female,2025-01-15,Hyderabad,Cataract,Dr. A. Rao,33,1060.0,Completed,UPI,4
+VIS0871,PAT0324,Aditya Naidu,40,Male,2025-06-16,Hyderabad,General Ophthalmology,Dr. V. Menon,19,530.0,Cancelled,UPI,
+VIS0872,PAT0279,Rahul Kumar,50,Female,2025-03-15,Kurnool,Optometry,Dr. P. Kumar,10,280.0,Completed,Card,4
+VIS0873,PAT0065,Diya Das,34,Female,2025-02-11,Kurnool,Cataract,Dr. M. Sharma,29,970.0,Cancelled,Card,
+VIS0874,PAT0622,Nisha Gupta,12,Female,2025-02-15,Kurnool,Pediatric Ophthalmology,Dr. K. Das,13,640.0,Completed,UPI,4
+VIS0875,PAT0221,Aditya Reddy,26,Female,2025-09-12,Hyderabad,Oculoplasty,Dr. S. Reddy,36,920.0,Completed,UPI,4
+VIS0876,PAT0324,Sai Joshi,66,Female,2025-07-04,Kurnool,General Ophthalmology,Dr. S. Reddy,33,490.0,Completed,Cash,3
+VIS0877,PAT0065,Saanvi Patel,43,Male,2025-07-17,Bengaluru,Cornea,Dr. R. Gupta,25,1090.0,Completed,Cash,4
+VIS0878,PAT0203,Aditya Naidu,51,Female,2025-09-29,Hyderabad,Optometry,Dr. P. Kumar,14,320.0,No-show,Cash,
+VIS0879,PAT0388,Sai Reddy,37,Male,2025-07-20,Kurnool,Glaucoma,Dr. S. Reddy,34,810.0,Completed,Cash,4
+VIS0880,PAT0631,Kiran Gupta,29,Female,2025-08-18,Hyderabad,Retina,Dr. K. Das,15,1210.0,No-show,Cash,
+VIS0881,PAT0231,Ishita Verma,74,Female,2025-02-01,Bengaluru,Retina,Dr. S. Reddy,40,860.0,Completed,Insurance,5
+VIS0882,PAT0393,Ananya Reddy,38,Female,2025-11-07,Kurnool,General Ophthalmology,Dr. V. Menon,53,480.0,Cancelled,Card,
+VIS0883,PAT0613,Rahul Reddy,34,Male,2025-06-13,Kurnool,Retina,Dr. A. Rao,34,930.0,No-show,Card,
+VIS0884,PAT0253,Rohan Sharma,63,Male,2025-02-26,Kurnool,Oculoplasty,Dr. N. Iyer,31,910.0,Completed,Card,4
+VIS0885,PAT0207,Priya Rao,28,Female,2025-10-24,Kurnool,Oculoplasty,Dr. M. Sharma,39,1320.0,Completed,Card,3
+VIS0886,PAT0032,Ishita Joshi,31,Female,2025-09-26,Bengaluru,General Ophthalmology,Dr. R. Gupta,38,430.0,Completed,Cash,3
+VIS0887,PAT0636,Ishita Naidu,42,Female,2025-01-20,Bengaluru,Cornea,Dr. N. Iyer,36,760.0,Completed,Card,4
+VIS0888,PAT0078,Kavya Naidu,42,Male,2025-03-12,Kurnool,Cataract,Dr. R. Gupta,6,1060.0,No-show,UPI,
+VIS0889,PAT0151,Rahul Joshi,47,Female,2025-01-06,Hyderabad,Optometry,Dr. S. Reddy,22,260.0,Completed,UPI,4
+VIS0890,PAT0098,Saanvi Menon,82,Male,2025-04-09,Kurnool,General Ophthalmology,Dr. M. Sharma,48,420.0,Completed,Insurance,3
+VIS0891,PAT0496,Kiran Menon,48,Female,2025-02-06,Hyderabad,Optometry,Dr. V. Menon,22,360.0,Completed,Insurance,4
+VIS0892,PAT0256,Aditya Patel,1,Female,2025-09-17,Bengaluru,Optometry,Dr. S. Reddy,4,300.0,Completed,UPI,4
+VIS0893,PAT0494,Kiran Patel,48,Male,2025-07-10,Hyderabad,General Ophthalmology,Dr. R. Gupta,25,340.0,No-show,Card,
+VIS0894,PAT0426,Rohan Sharma,43,Female,2025-12-24,Kurnool,General Ophthalmology,Dr. V. Menon,9,490.0,Completed,Cash,5
+VIS0895,PAT0011,Meera Patel,43,Female,2025-10-01,Hyderabad,Optometry,Dr. K. Das,28,280.0,Completed,Cash,3
+VIS0896,PAT0216,Aditya Patel,47,Male,2025-08-12,Bengaluru,General Ophthalmology,Dr. S. Reddy,12,550.0,No-show,Cash,
+VIS0897,PAT0003,Meera Reddy,41,Female,2025-07-05,Kurnool,Retina,Dr. V. Menon,36,1000.0,Completed,Cash,3
+VIS0898,PAT0046,Rohan Patel,41,Female,2025-01-20,Kurnool,Optometry,Dr. V. Menon,7,350.0,Completed,Card,5
+VIS0899,PAT0332,Kavya Iyer,54,Female,2025-01-26,Kurnool,Glaucoma,Dr. P. Kumar,25,950.0,Completed,UPI,4
+VIS0900,PAT0186,Aarav Sharma,32,Male,2025-08-13,Hyderabad,Cataract,Dr. N. Iyer,43,790.0,Completed,Cash,4
+VIS0901,PAT0063,Priya Reddy,24,Male,2025-01-02,Hyderabad,Retina,Dr. A. Rao,36,1070.0,Completed,Insurance,3
+VIS0902,PAT0287,Vihaan Patel,95,Female,2025-01-16,Bengaluru,General Ophthalmology,Dr. M. Sharma,16,480.0,Cancelled,UPI,
+VIS0903,PAT0317,Ishita Iyer,28,Male,2025-03-21,Bengaluru,Oculoplasty,Dr. S. Reddy,21,870.0,Completed,UPI,4
+VIS0904,PAT0695,Aarav Gupta,44,Male,2025-11-19,Bengaluru,Cataract,Dr. N. Iyer,9,940.0,Cancelled,UPI,
+VIS0905,PAT0464,Diya Gupta,14,Male,2025-06-17,Bengaluru,General Ophthalmology,Dr. N. Iyer,9,430.0,Cancelled,UPI,
+VIS0906,PAT0276,Saanvi Kumar,44,Male,2025-09-16,Kurnool,Cataract,Dr. N. Iyer,29,870.0,Cancelled,UPI,
+VIS0907,PAT0332,Meera Rao,24,Male,2025-05-31,Hyderabad,Oculoplasty,Dr. K. Das,42,1010.0,Completed,Card,3
+VIS0908,PAT0063,Priya Sharma,34,Male,2025-03-05,Kurnool,General Ophthalmology,Dr. R. Gupta,16,450.0,Completed,Insurance,4
+VIS0909,PAT0271,Rohan Reddy,62,Female,2025-05-16,Kurnool,Optometry,Dr. S. Reddy,32,310.0,Completed,UPI,4
+VIS0910,PAT0407,Ishita Patel,51,Female,2025-02-03,Bengaluru,Cornea,Dr. S. Reddy,19,770.0,Completed,UPI,4
+VIS0911,PAT0015,Diya Joshi,53,Male,2025-10-09,Hyderabad,Optometry,Dr. S. Reddy,14,280.0,Completed,Cash,4
+VIS0912,PAT0644,Arjun Kumar,8,Female,2025-03-08,Bengaluru,Oculoplasty,Dr. R. Gupta,21,980.0,Completed,Insurance,4
+VIS0913,PAT0361,Kiran Sharma,77,Male,2025-05-18,Hyderabad,Optometry,Dr. A. Rao,26,300.0,Completed,UPI,3
+VIS0914,PAT0551,Meera Gupta,19,Female,2025-12-24,Hyderabad,Optometry,Dr. A. Rao,37,280.0,Completed,UPI,4
+VIS0915,PAT0193,Ananya Das,71,Male,2025-08-05,Hyderabad,General Ophthalmology,Dr. S. Reddy,4,470.0,Completed,Insurance,3
+VIS0916,PAT0586,Aarav Rao,61,Female,2025-06-17,Kurnool,Pediatric Ophthalmology,Dr. V. Menon,21,440.0,Completed,UPI,4
+VIS0917,PAT0257,Ananya Reddy,53,Male,2025-07-18,Kurnool,Glaucoma,Dr. N. Iyer,43,670.0,Completed,Cash,3
+VIS0918,PAT0650,Ishita Joshi,26,Female,2025-10-14,Hyderabad,Glaucoma,Dr. R. Gupta,16,720.0,Cancelled,UPI,
+VIS0919,PAT0366,Sai Reddy,45,Female,2025-04-03,Kurnool,Optometry,Dr. S. Reddy,22,260.0,Completed,UPI,3
+VIS0920,PAT0446,Kavya Naidu,33,Male,2025-08-21,Bengaluru,Oculoplasty,Dr. M. Sharma,44,1240.0,Cancelled,Insurance,
+VIS0921,PAT0143,Kiran Menon,43,Male,2025-11-15,Kurnool,Cornea,Dr. N. Iyer,27,850.0,Cancelled,UPI,
+VIS0922,PAT0697,Meera Sharma,37,Male,2025-07-28,Kurnool,Retina,Dr. A. Rao,41,1130.0,Completed,UPI,3
+VIS0923,PAT0135,Kiran Gupta,3,Male,2025-06-12,Bengaluru,Retina,Dr. R. Gupta,53,1020.0,Completed,UPI,3
+VIS0924,PAT0024,Aditya Kumar,63,Female,2025-02-22,Kurnool,Cataract,Dr. V. Menon,47,900.0,Completed,UPI,4
+VIS0925,PAT0308,Kavya Sharma,40,Male,2025-04-01,Bengaluru,Cataract,Dr. S. Reddy,27,740.0,Completed,Cash,4
+VIS0926,PAT0585,Nisha Sharma,33,Female,2025-12-12,Hyderabad,Cataract,Dr. V. Menon,23,880.0,Completed,Insurance,2
+VIS0927,PAT0645,Ananya Joshi,31,Male,2025-07-17,Kurnool,General Ophthalmology,Dr. M. Sharma,13,390.0,Completed,Cash,5
+VIS0928,PAT0600,Saanvi Kumar,49,Female,2025-04-20,Hyderabad,General Ophthalmology,Dr. P. Kumar,32,430.0,Cancelled,Insurance,
+VIS0929,PAT0388,Aarav Reddy,25,Female,2025-06-02,Hyderabad,Pediatric Ophthalmology,Dr. R. Gupta,10,370.0,No-show,Card,
+VIS0930,PAT0642,Vihaan Joshi,1,Male,2025-07-30,Bengaluru,Retina,Dr. N. Iyer,32,910.0,Cancelled,Cash,
+VIS0931,PAT0345,Vihaan Reddy,50,Male,2025-07-16,Bengaluru,Optometry,Dr. S. Reddy,17,370.0,Completed,Card,3
+VIS0932,PAT0335,Nisha Verma,52,Female,2025-09-13,Hyderabad,Glaucoma,Dr. V. Menon,25,840.0,Completed,Card,4
+VIS0933,PAT0127,Diya Naidu,38,Male,2025-04-04,Hyderabad,General Ophthalmology,Dr. K. Das,25,540.0,No-show,Card,
+VIS0934,PAT0552,Kiran Das,20,Male,2025-08-25,Kurnool,General Ophthalmology,Dr. S. Reddy,48,540.0,Completed,UPI,4
+VIS0935,PAT0222,Arjun Menon,44,Female,2025-06-11,Hyderabad,General Ophthalmology,Dr. K. Das,21,500.0,Completed,Cash,4
+VIS0936,PAT0137,Sai Gupta,14,Male,2025-12-10,Bengaluru,Oculoplasty,Dr. K. Das,28,930.0,Completed,Cash,4
+VIS0937,PAT0259,Sai Reddy,22,Female,2025-02-27,Hyderabad,General Ophthalmology,Dr. P. Kumar,32,380.0,Completed,Card,3
+VIS0938,PAT0423,Aditya Joshi,28,Female,2025-02-24,Hyderabad,Retina,Dr. M. Sharma,37,1290.0,Completed,Cash,4
+VIS0939,PAT0190,Kiran Joshi,58,Male,2025-06-18,Hyderabad,Optometry,Dr. V. Menon,30,300.0,Completed,UPI,3
+VIS0940,PAT0252,Ishita Verma,35,Female,2025-07-05,Bengaluru,Oculoplasty,Dr. S. Reddy,34,1370.0,Completed,UPI,5
+VIS0941,PAT0232,Kavya Naidu,33,Female,2025-09-10,Bengaluru,General Ophthalmology,Dr. K. Das,20,430.0,Completed,Cash,5
+VIS0942,PAT0418,Priya Das,79,Male,2025-05-28,Kurnool,General Ophthalmology,Dr. V. Menon,4,580.0,Completed,Card,5
+VIS0943,PAT0500,Ishita Das,49,Female,2025-11-30,Kurnool,General Ophthalmology,Dr. R. Gupta,6,440.0,Completed,Card,5
+VIS0944,PAT0473,Kavya Rao,48,Male,2025-06-23,Hyderabad,General Ophthalmology,Dr. P. Kumar,4,540.0,Completed,Card,4
+VIS0945,PAT0099,Diya Iyer,35,Male,2025-02-17,Hyderabad,General Ophthalmology,Dr. P. Kumar,26,560.0,Cancelled,Cash,
+VIS0946,PAT0243,Ishita Naidu,31,Female,2025-02-13,Hyderabad,Glaucoma,Dr. R. Gupta,16,630.0,Completed,UPI,4
+VIS0947,PAT0454,Ishita Naidu,1,Male,2025-12-22,Kurnool,Optometry,Dr. M. Sharma,29,280.0,Completed,Card,3
+VIS0948,PAT0152,Ananya Sharma,60,Female,2025-02-18,Hyderabad,Retina,Dr. N. Iyer,35,930.0,Completed,UPI,5
+VIS0949,PAT0049,Priya Iyer,51,Male,2025-12-12,Hyderabad,Glaucoma,Dr. N. Iyer,28,610.0,Completed,Card,5
+VIS0950,PAT0226,Priya Naidu,39,Female,2025-04-12,Hyderabad,General Ophthalmology,Dr. N. Iyer,14,500.0,Cancelled,UPI,
+VIS0951,PAT0476,Ishita Iyer,39,Male,2025-02-04,Hyderabad,Pediatric Ophthalmology,Dr. N. Iyer,30,580.0,Completed,UPI,3
+VIS0952,PAT0465,Kavya Joshi,56,Female,2025-04-22,Hyderabad,Glaucoma,Dr. M. Sharma,22,760.0,Completed,UPI,4
+VIS0953,PAT0091,Aarav Gupta,12,Male,2025-08-13,Hyderabad,Optometry,Dr. M. Sharma,6,330.0,Completed,Card,3
+VIS0954,PAT0474,Meera Rao,31,Female,2025-06-06,Bengaluru,Optometry,Dr. M. Sharma,28,220.0,Completed,Cash,4
+VIS0955,PAT0137,Aditya Rao,20,Female,2025-10-14,Hyderabad,Cataract,Dr. K. Das,32,1070.0,No-show,Insurance,
+VIS0956,PAT0519,Ishita Gupta,76,Female,2025-08-12,Hyderabad,General Ophthalmology,Dr. V. Menon,20,430.0,Cancelled,UPI,
+VIS0957,PAT0397,Nisha Patel,59,Male,2025-05-27,Hyderabad,General Ophthalmology,Dr. N. Iyer,28,490.0,No-show,Cash,
+VIS0958,PAT0089,Rahul Verma,1,Other,2025-08-20,Kurnool,Retina,Dr. K. Das,35,1200.0,Cancelled,Card,
+VIS0959,PAT0246,Meera Kumar,13,Female,2025-12-21,Kurnool,Optometry,Dr. M. Sharma,20,360.0,Completed,UPI,4
+VIS0960,PAT0573,Aditya Rao,39,Female,2025-05-31,Hyderabad,Cataract,Dr. V. Menon,20,890.0,Cancelled,UPI,
+VIS0961,PAT0303,Sai Patel,33,Female,2025-02-26,Bengaluru,Pediatric Ophthalmology,Dr. M. Sharma,45,410.0,Completed,Insurance,4
+VIS0962,PAT0482,Rahul Gupta,17,Female,2025-05-30,Hyderabad,Glaucoma,Dr. M. Sharma,24,760.0,Cancelled,Card,
+VIS0963,PAT0524,Meera Joshi,79,Male,2025-11-03,Kurnool,General Ophthalmology,Dr. A. Rao,38,460.0,Completed,UPI,3
+VIS0964,PAT0022,Rahul Verma,48,Male,2025-03-21,Hyderabad,Cataract,Dr. P. Kumar,26,760.0,Completed,Card,2
+VIS0965,PAT0653,Ananya Iyer,51,Male,2025-12-13,Kurnool,Cornea,Dr. K. Das,34,870.0,Completed,UPI,2
+VIS0966,PAT0235,Kavya Menon,29,Female,2025-08-03,Hyderabad,Cornea,Dr. A. Rao,33,800.0,Cancelled,UPI,
+VIS0967,PAT0556,Meera Rao,56,Female,2025-08-08,Bengaluru,Retina,Dr. S. Reddy,46,880.0,Completed,UPI,5
+VIS0968,PAT0327,Arjun Das,35,Male,2025-04-26,Hyderabad,General Ophthalmology,Dr. V. Menon,14,500.0,Completed,Cash,4
+VIS0969,PAT0404,Aditya Joshi,37,Female,2025-12-02,Hyderabad,Cornea,Dr. V. Menon,37,780.0,Completed,UPI,3
+VIS0970,PAT0253,Ananya Patel,54,Male,2025-01-14,Kurnool,General Ophthalmology,Dr. M. Sharma,40,420.0,No-show,UPI,
+VIS0971,PAT0598,Arjun Joshi,11,Female,2025-04-20,Hyderabad,Optometry,Dr. M. Sharma,13,280.0,Completed,Card,5
+VIS0972,PAT0083,Vihaan Kumar,72,Female,2025-06-02,Bengaluru,General Ophthalmology,Dr. N. Iyer,22,530.0,Completed,UPI,4
+VIS0973,PAT0628,Arjun Reddy,45,Male,2025-06-24,Hyderabad,General Ophthalmology,Dr. V. Menon,17,450.0,Completed,UPI,4
+VIS0974,PAT0146,Aditya Das,66,Female,2025-06-23,Hyderabad,Retina,Dr. M. Sharma,32,1110.0,Completed,Card,4
+VIS0975,PAT0619,Kiran Verma,22,Male,2025-02-23,Hyderabad,Retina,Dr. S. Reddy,52,1030.0,Completed,Insurance,3
+VIS0976,PAT0018,Rohan Sharma,24,Female,2025-03-24,Kurnool,Retina,Dr. M. Sharma,25,1180.0,Completed,UPI,4
+VIS0977,PAT0010,Rohan Menon,20,Female,2025-02-04,Kurnool,Retina,Dr. P. Kumar,26,1320.0,Cancelled,Insurance,
+VIS0978,PAT0066,Kiran Kumar,47,Female,2025-07-28,Kurnool,Oculoplasty,Dr. K. Das,48,1100.0,Cancelled,Card,
+VIS0979,PAT0384,Priya Gupta,43,Female,2025-05-09,Hyderabad,Retina,Dr. S. Reddy,41,1210.0,No-show,Cash,
+VIS0980,PAT0187,Diya Das,33,Male,2025-07-26,Bengaluru,Retina,Dr. N. Iyer,56,1200.0,Completed,UPI,3
+VIS0981,PAT0419,Saanvi Kumar,23,Female,2025-08-04,Hyderabad,Retina,Dr. S. Reddy,30,870.0,Completed,UPI,4
+VIS0982,PAT0574,Aarav Gupta,18,Male,2025-09-14,Kurnool,General Ophthalmology,Dr. R. Gupta,23,390.0,Completed,Card,5
+VIS0983,PAT0020,Saanvi Gupta,41,Male,2025-07-19,Kurnool,Glaucoma,Dr. K. Das,23,730.0,Cancelled,UPI,
+VIS0984,PAT0369,Rohan Das,33,Female,2025-08-25,Kurnool,General Ophthalmology,Dr. S. Reddy,23,400.0,Completed,UPI,4
+VIS0985,PAT0518,Kavya Kumar,29,Female,2025-08-03,Bengaluru,Glaucoma,Dr. R. Gupta,12,630.0,Completed,Card,3
+VIS0986,PAT0298,Aditya Reddy,71,Female,2025-08-27,Hyderabad,General Ophthalmology,Dr. N. Iyer,29,320.0,Completed,UPI,3
+VIS0987,PAT0648,Ananya Joshi,40,Male,2025-08-14,Bengaluru,Oculoplasty,Dr. N. Iyer,35,800.0,Completed,UPI,4
+VIS0988,PAT0464,Vihaan Naidu,66,Male,2025-04-26,Bengaluru,Retina,Dr. A. Rao,34,1060.0,Completed,Insurance,5
+VIS0989,PAT0025,Kiran Menon,32,Female,2025-03-31,Kurnool,Optometry,Dr. S. Reddy,12,300.0,Completed,Insurance,3
+VIS0990,PAT0380,Kiran Gupta,47,Male,2025-10-15,Hyderabad,Retina,Dr. V. Menon,26,970.0,Completed,Card,4
+VIS0991,PAT0269,Sai Menon,41,Female,2025-05-06,Bengaluru,General Ophthalmology,Dr. M. Sharma,29,460.0,Completed,UPI,5
+VIS0992,PAT0093,Priya Reddy,10,Female,2025-07-20,Hyderabad,Pediatric Ophthalmology,Dr. N. Iyer,12,560.0,Completed,Cash,4
+VIS0993,PAT0666,Vihaan Iyer,69,Female,2025-03-13,Kurnool,Glaucoma,Dr. R. Gupta,35,870.0,Cancelled,UPI,
+VIS0994,PAT0156,Aditya Gupta,39,Other,2025-06-07,Bengaluru,Pediatric Ophthalmology,Dr. M. Sharma,45,590.0,Completed,UPI,4
+VIS0995,PAT0059,Rahul Reddy,56,Female,2025-07-13,Bengaluru,Retina,Dr. M. Sharma,50,1210.0,Completed,UPI,3
+VIS0996,PAT0156,Vihaan Reddy,28,Female,2025-08-17,Hyderabad,Glaucoma,Dr. V. Menon,15,770.0,Cancelled,Insurance,
+VIS0997,PAT0577,Kiran Naidu,39,Female,2025-07-12,Hyderabad,Optometry,Dr. A. Rao,11,240.0,Completed,Card,4
+VIS0998,PAT0420,Ananya Verma,26,Male,2025-05-12,Kurnool,Glaucoma,Dr. M. Sharma,34,740.0,Completed,UPI,5
+VIS0999,PAT0574,Arjun Naidu,65,Female,2025-12-18,Bengaluru,Cataract,Dr. V. Menon,27,730.0,Completed,UPI,4
+VIS1000,PAT0324,Rahul Rao,48,Female,2025-07-07,Hyderabad,Cornea,Dr. S. Reddy,12,840.0,Cancelled,UPI,
